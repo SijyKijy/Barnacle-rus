@@ -1,0 +1,8 @@
+Barnacle-rus - Russian localization for Barnacle
+
+Code is distributed under LGPL-2.1; see LICENSE
+Files under integration/ are modified Barnacle Lua files by LuN / LuNGamedesign
+The original game is required. Game executables, maps, textures and audio are not included
+
+Arimo: Copyright 2026 The Arimo Project Authors (https://github.com/googlefonts/Arimo)
+Arimo fonts are distributed under SIL OFL 1.1; see fonts/OFL.txt

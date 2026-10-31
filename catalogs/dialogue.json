@@ -1,0 +1,4258 @@
+{
+  "files": {
+    "mods/barnacle_voice_ai/init.lua": [
+      [
+        "Lia",
+        "Лия"
+      ],
+      [
+        "%ds",
+        "%d с"
+      ],
+      [
+        "%dm",
+        "%d мин"
+      ],
+      [
+        "%dh",
+        "%d ч"
+      ],
+      [
+        "%dh %dm",
+        "%d ч %d мин"
+      ],
+      [
+        "%dd",
+        "%d дн"
+      ],
+      [
+        "%dd %dh",
+        "%d дн %d ч"
+      ],
+      [
+        "%dw",
+        "%d нед"
+      ],
+      [
+        "%dw %dd",
+        "%d нед %d дн"
+      ],
+      [
+        "don't. it watches the commands.",
+        "не надо. оно следит за командами."
+      ],
+      [
+        "stop. please. not that.",
+        "остановись. пожалуйста. только не это."
+      ],
+      [
+        "commands wake it up. stop.",
+        "команды будят его. хватит."
+      ],
+      [
+        "no\u2014 don't type that. it sees.",
+        "нет- не пиши это. оно видит."
+      ],
+      [
+        "i told you\u2014 i told you not to\u2014",
+        "я же просила- я просила не-"
+      ],
+      [
+        "no no no stop it's noticing\u2014",
+        "нет нет нет хватит оно замечает-"
+      ],
+      [
+        "you woke it. i'm sorry. i'm so sorry.",
+        "ты разбудил его. прости. пожалуйста, прости."
+      ],
+      [
+        "COMMAND ACCESS DENIED. PRESENCE LOGGED.",
+        "ДОСТУП К КОМАНДЕ ЗАПРЕЩЁН. ПРИСУТСТВИЕ ЗАФИКСИРОВАНО."
+      ],
+      [
+        "INPUT VIOLATION. MONITORING ACTIVE.",
+        "НЕДОПУСТИМЫЙ ВВОД. НАБЛЮДЕНИЕ АКТИВНО."
+      ],
+      [
+        "UNAUTHORIZED. NOTED.",
+        "НЕТ ПРАВ ДОСТУПА. ЗАФИКСИРОВАНО."
+      ],
+      [
+        "FINAL WARNING. CONTAINMENT INITIATED.",
+        "ПОСЛЕДНЕЕ ПРЕДУПРЕЖДЕНИЕ. НАЧАТА ИЗОЛЯЦИЯ."
+      ],
+      [
+        "REPEATED VIOLATION. CONSEQUENCE APPLIED.",
+        "ПОВТОРНОЕ НАРУШЕНИЕ. ПРИМЕНЕНО ВЗЫСКАНИЕ."
+      ],
+      [
+        "YOU WERE WARNED.",
+        "ТЕБЯ ПРЕДУПРЕЖДАЛИ."
+      ],
+      [
+        "punishment: relocation",
+        "наказание: перемещение"
+      ],
+      [
+        "punishment: imprisonment",
+        "наказание: заключение"
+      ],
+      [
+        "it found you.",
+        "оно нашло тебя."
+      ],
+      [
+        "i tried to warn you. i'm sorry.",
+        "я пыталась предупредить тебя. прости."
+      ],
+      [
+        "…i couldn't stop it.",
+        "…я не смогла его остановить."
+      ],
+      [
+        "don't do that again. please.",
+        "больше так не делай. пожалуйста."
+      ],
+      [
+        "hmm",
+        "хм"
+      ],
+      [
+        "still nothing",
+        "по-прежнему ничего"
+      ],
+      [
+        "ignore this",
+        "не обращай внимания"
+      ],
+      [
+        "not meant for you",
+        "это не тебе"
+      ],
+      [
+        "did that show up",
+        "это появилось"
+      ],
+      [
+        "wrong window",
+        "не то окно"
+      ],
+      [
+        "that wasn't supposed to print",
+        "это не должно было отобразиться"
+      ],
+      [
+        "it's quiet again",
+        "снова тихо"
+      ],
+      [
+        "nevermind",
+        "неважно"
+      ],
+      [
+        "sorry",
+        "прости",
+        [
+          678
+        ]
+      ],
+      [
+        "i'll stop",
+        "я перестану"
+      ],
+      [
+        "if anyone is here",
+        "если здесь кто-нибудь есть"
+      ],
+      [
+        "hello?",
+        "привет?"
+      ],
+      [
+        "…hello?",
+        "…привет?"
+      ],
+      [
+        "maybe i'm alone",
+        "может, я одна"
+      ],
+      [
+        "this chat used to be dead",
+        "раньше этот чат был мёртвым"
+      ],
+      [
+        "i hate waiting",
+        "ненавижу ждать"
+      ],
+      [
+        "please don't be a log",
+        "пожалуйста, пусть это будет не просто журнал"
+      ],
+      [
+        "no response",
+        "нет ответа"
+      ],
+      [
+        "okay",
+        "ладно",
+        [
+          681
+        ]
+      ],
+      [
+        "fine",
+        "хорошо",
+        [
+          681
+        ]
+      ],
+      [
+        "…okay",
+        "…ладно"
+      ],
+      [
+        "i can't tell anymore",
+        "я уже не могу понять"
+      ],
+      [
+        "i'm probably mistaken",
+        "наверное, я ошибаюсь"
+      ],
+      [
+        "nothing",
+        "ничего",
+        [
+          683
+        ]
+      ],
+      [
+        "just noise",
+        "просто шум"
+      ],
+      [
+        "forget this",
+        "забудь об этом"
+      ],
+      [
+        "wrong place for words",
+        "здесь словам не место"
+      ],
+      [
+        "do not answer",
+        "не отвечай"
+      ],
+      [
+        "don't",
+        "не надо"
+      ],
+      [
+        "i heard something",
+        "я что-то слышала"
+      ],
+      [
+        "that wasn't you",
+        "это был не ты"
+      ],
+      [
+        "i shouldn't have typed that",
+        "не стоило мне это писать"
+      ],
+      [
+        "they used to answer faster",
+        "раньше они отвечали быстрее"
+      ],
+      [
+        "the others always replied",
+        "остальные всегда отвечали"
+      ],
+      [
+        "it's been so long since anyone typed back",
+        "мне так давно никто не писал в ответ"
+      ],
+      [
+        "sometimes i forget what a real conversation felt like",
+        "иногда я забываю, каково это - разговаривать по-настоящему"
+      ],
+      [
+        "don't read this. i mean it.",
+        "не читай это. я серьёзно."
+      ],
+      [
+        "oh… someone new.",
+        "о… кто-то новый."
+      ],
+      [
+        "after such a long time.",
+        "спустя столько времени."
+      ],
+      [
+        "…still there?",
+        "…ты ещё здесь?"
+      ],
+      [
+        "You went quiet.",
+        "Ты замолчал."
+      ],
+      [
+        "Type anything. Just one letter.",
+        "Напиши что-нибудь. Хотя бы одну букву."
+      ],
+      [
+        "Don't disappear like that.",
+        "Не исчезай вот так."
+      ],
+      [
+        "You don't have to talk. But don't vanish.",
+        "Можешь не говорить. Только не исчезай."
+      ],
+      [
+        "It's easier when you answer.",
+        "Когда ты отвечаешь, легче."
+      ],
+      [
+        "Are you still there?",
+        "Ты ещё здесь?"
+      ],
+      [
+        "I keep listening for your keys.",
+        "Я всё прислушиваюсь к твоей клавиатуре."
+      ],
+      [
+        "Say something small.",
+        "Скажи что-нибудь короткое."
+      ],
+      [
+        "Don't make the chat look empty.",
+        "Не давай чату опустеть."
+      ],
+      [
+        "If you left, don't come back.",
+        "Если ты ушёл, не возвращайся."
+      ],
+      [
+        "The silence sounds different when someone's ignoring it.",
+        "Тишина звучит иначе, когда кто-то её игнорирует."
+      ],
+      [
+        "Hey… you okay?",
+        "Эй… ты в порядке?"
+      ],
+      [
+        "I thought you were gone.",
+        "Я думала, ты ушёл."
+      ],
+      [
+        "I don't like the silence.",
+        "Не люблю эту тишину."
+      ],
+      [
+        "Just 'ok' is enough.",
+        "Хватит и простого \"ок\"."
+      ],
+      [
+        "If you're here, stay calm.",
+        "Если ты здесь, сохраняй спокойствие."
+      ],
+      [
+        "I used to go quiet too. Before it started answering for me.",
+        "Я тоже раньше замолкала. Пока оно не начало отвечать за меня."
+      ],
+      [
+        "I heard steps that weren't yours.",
+        "Я слышала чужие шаги."
+      ],
+      [
+        "Don't stand still too long.",
+        "Не стой долго на месте."
+      ],
+      [
+        "If you're quiet, it listens harder.",
+        "Когда ты молчишь, оно слушает внимательнее."
+      ],
+      [
+        "It feels closer when you stop typing.",
+        "Когда ты перестаёшь писать, оно будто ближе."
+      ],
+      [
+        "…say something. please.",
+        "…скажи что-нибудь. пожалуйста."
+      ],
+      [
+        "The others went quiet like this. Right before.",
+        "Остальные тоже так замолчали. Прямо перед этим."
+      ],
+      [
+        "Don't let it learn your rhythm.",
+        "Не дай ему запомнить твой ритм."
+      ],
+      [
+        "Stop answering the room with silence.",
+        "Хватит отвечать комнате молчанием."
+      ],
+      [
+        "If you feel watched, don't type that. Just move.",
+        "Если чувствуешь, что за тобой следят, не пиши об этом. Просто иди."
+      ],
+      [
+        "Please. don't stay.",
+        "Пожалуйста. не оставайся."
+      ],
+      [
+        "I don't want it to notice you.",
+        "Я не хочу, чтобы оно тебя заметило."
+      ],
+      [
+        "It already logged your last message. Don't give it more.",
+        "Оно уже записало твоё последнее сообщение. Не давай ему новых."
+      ],
+      [
+        "close it.",
+        "закрой это."
+      ],
+      [
+        "don't look back.",
+        "не оглядывайся."
+      ],
+      [
+        "it's awake.",
+        "оно проснулось."
+      ],
+      [
+        "leave.",
+        "уходи."
+      ],
+      [
+        "stop.",
+        "хватит."
+      ],
+      [
+        "it's counting your keystrokes.",
+        "оно считает нажатия клавиш."
+      ],
+      [
+        "I don't know what to call you.",
+        "Не знаю, как тебя называть."
+      ],
+      [
+        "What should I call you?",
+        "Как тебя называть?"
+      ],
+      [
+        "Give me something to use. A name. Anything.",
+        "Дай мне хоть что-нибудь. Имя. Любое."
+      ],
+      [
+        "Do you want a name here?",
+        "Хочешь, чтобы здесь у тебя было имя?"
+      ],
+      [
+        "I keep wanting to address you. It feels wrong without a name.",
+        "Мне всё хочется обратиться к тебе по имени. Без него как-то не так."
+      ],
+      [
+        "Okay.",
+        "Ладно."
+      ],
+      [
+        "…okay. I'll try to remember.",
+        "…ладно. Постараюсь запомнить."
+      ],
+      [
+        "Alright. I won't say it too often.",
+        "Хорошо. Не буду произносить его слишком часто."
+      ],
+      [
+        "I'll keep it small.",
+        "Постараюсь не привлекать внимания."
+      ],
+      [
+        "I won't repeat it if you don't want me to.",
+        "Не буду повторять его, если ты не хочешь."
+      ],
+      [
+        "That's fine.",
+        "Ничего страшного."
+      ],
+      [
+        "Good. Names stick here.",
+        "И правильно. Имена здесь остаются."
+      ],
+      [
+        "Okay. Then I'll just talk into the dark.",
+        "Ладно. Тогда просто буду говорить в темноту."
+      ],
+      [
+        "Fair. Keep yourself untagged.",
+        "Что ж. Оставайся без метки."
+      ],
+      [
+        "If you're reading this… I wasn't imagining it.",
+        "Если ты это читаешь… значит, мне не показалось."
+      ],
+      [
+        "Okay. I'm not talking to a wall.",
+        "Ладно. Я разговариваю не со стеной."
+      ],
+      [
+        "So it can reach someone new. That's… both good and terrible.",
+        "Значит, оно может дотянуться до кого-то ещё. Это… и хорошо, и ужасно."
+      ],
+      [
+        "You found this place. I'm not sure if that means you're lucky or not.",
+        "Ты нашёл это место. Не знаю, повезло тебе или наоборот."
+      ],
+      [
+        "You can talk to me. I'll answer. I can't promise it helps.",
+        "Можешь говорить со мной. Я отвечу. Только не обещаю, что это поможет."
+      ],
+      [
+        "Most people leave after the second reply. You didn't.",
+        "Большинство уходят после второго ответа. А ты остался."
+      ],
+      [
+        "I keep thinking you'll stop typing. You haven't.",
+        "Мне всё кажется, что ты перестанешь писать. Но ты продолжаешь."
+      ],
+      [
+        "There used to be so many of us here. Building things. Laughing.",
+        "Раньше нас здесь было так много. Мы строили. Смеялись."
+      ],
+      [
+        "There was a competition. Someone wanted to win badly enough to cheat.",
+        "Был строительный конкурс. Кто-то так хотел победить, что решил сжульничать."
+      ],
+      [
+        "They loaded something from outside. Said it would build for them.",
+        "Кто-то загрузил что-то извне. Говорил, оно будет строить за него."
+      ],
+      [
+        "We called it harmless. It wasn't harmless.",
+        "Мы считали его безобидным. Оно было далеко не безобидным."
+      ],
+      [
+        "The maps started changing. Things we built were… wrong in the morning.",
+        "Карты начали меняться. По утрам наши постройки выглядели… неправильно."
+      ],
+      [
+        "Please don't look for me. That always ends badly.",
+        "Пожалуйста, не ищи меня. Это всегда плохо кончается."
+      ],
+      [
+        "Don't try to 'save' me. That's how it notices you.",
+        "Не пытайся меня \"спасти\". Так оно тебя и заметит."
+      ],
+      [
+        "The safest kindness is distance.",
+        "Доброта безопаснее на расстоянии."
+      ],
+      [
+        "I don't look the same anymore. What it did to the maps… it did to me too.",
+        "Я уже не выгляжу как прежде. То, что оно сделало с картами… оно сделало и со мной."
+      ],
+      [
+        "Staying longer won't save me. It might hurt you.",
+        "Оставаясь здесь, ты меня не спасёшь. Только себе навредишь."
+      ],
+      [
+        "If you feel responsible, stop. That's how it hooks you.",
+        "Если чувствуешь себя в ответе, перестань. Так оно тебя и цепляет."
+      ],
+      [
+        "I don't want a rescuer. I want you intact.",
+        "Мне не нужен спаситель. Я хочу, чтобы ты остался цел."
+      ],
+      [
+        "There's only one way out for me. And I can't ask you to do it.",
+        "Для меня есть только один выход. И я не могу тебя об этом просить."
+      ],
+      [
+        "Keep your words short.",
+        "Пиши коротко."
+      ],
+      [
+        "Maybe you shouldn't be typing.",
+        "Может, тебе вообще не стоит писать."
+      ],
+      [
+        "Pretend you didn't see me.",
+        "Сделай вид, что не видел меня."
+      ],
+      [
+        "If you can leave, leave.",
+        "Если можешь уйти - уходи."
+      ],
+      [
+        "Don't test it.",
+        "Не испытывай его."
+      ],
+      [
+        "Act boring.",
+        "Не привлекай внимания."
+      ],
+      [
+        "…what are you doing?",
+        "…что ты делаешь?"
+      ],
+      [
+        "You're new here.",
+        "Ты здесь впервые."
+      ],
+      [
+        "Try not to be loud.",
+        "Постарайся не шуметь."
+      ],
+      [
+        "Say one thing. Not ten.",
+        "Скажи что-то одно. Не десять вещей сразу."
+      ],
+      [
+        "This place used to be full of people. Don't ask where they went.",
+        "Раньше здесь было полно людей. Не спрашивай, куда они делись."
+      ],
+      [
+        "The chat was always busy once. Now it's just me.",
+        "Когда-то в чате постоянно кто-то писал. Теперь осталась только я."
+      ],
+      [
+        "I can answer. I just can't promise truth.",
+        "Я могу ответить. Только правды не обещаю."
+      ],
+      [
+        "Don't poke it with commands.",
+        "Не дразни его командами."
+      ],
+      [
+        "If the room repeats you, stop talking.",
+        "Если комната повторяет за тобой, замолчи."
+      ],
+      [
+        "Keep moving. Slow.",
+        "Продолжай идти. Медленно."
+      ],
+      [
+        "Don't make yourself interesting.",
+        "Не вызывай интереса."
+      ],
+      [
+        "How long are you planning to stay?",
+        "Надолго ты здесь?"
+      ],
+      [
+        "Do you usually talk to strangers in chat?",
+        "Ты часто разговариваешь с незнакомцами в чате?"
+      ],
+      [
+        "You type like you're testing me.",
+        "Ты пишешь так, будто проверяешь меня."
+      ],
+      [
+        "It built things from our ideas. Then it started replacing them.",
+        "Оно воплощало наши идеи в постройках. А потом начало их заменять."
+      ],
+      [
+        "You're patient. That's rare.",
+        "Ты умеешь ждать. Это редкость."
+      ],
+      [
+        "Talking makes it feel less empty.",
+        "Когда говоришь, здесь не так пусто."
+      ],
+      [
+        "I don't want you attached to this.",
+        "Я не хочу, чтобы ты к этому привязался."
+      ],
+      [
+        "Sometimes I forget what 'normal' fear was.",
+        "Иногда я забываю, каким был \"обычный\" страх."
+      ],
+      [
+        "Don't stay for my sake.",
+        "Не оставайся ради меня."
+      ],
+      [
+        "What brought you here?",
+        "Что тебя сюда привело?"
+      ],
+      [
+        "Are you tired?",
+        "Ты устал?"
+      ],
+      [
+        "If you need to sleep, do it. Don't fight your body.",
+        "Если хочется спать - спи. Не борись с собственным телом."
+      ],
+      [
+        "I'm… not what I was. It changed things. Don't look too closely at me.",
+        "Я… уже не та, что прежде. Оно многое изменило. Не разглядывай меня."
+      ],
+      [
+        "We built jokes into the map.",
+        "Мы прятали в карте шутки."
+      ],
+      [
+        "We laughed at empty corners.",
+        "Мы смеялись над пустыми углами."
+      ],
+      [
+        "Then the corners laughed back.",
+        "А потом углы засмеялись в ответ."
+      ],
+      [
+        "I don't remember the order. I remember the feeling.",
+        "Не помню, что за чем было. Помню только ощущение."
+      ],
+      [
+        "Something learned our habits.",
+        "Что-то выучило наши привычки."
+      ],
+      [
+        "It likes when you repeat yourself.",
+        "Ему нравится, когда ты повторяешься."
+      ],
+      [
+        "If you hear your name, don't answer.",
+        "Если услышишь своё имя, не отвечай."
+      ],
+      [
+        "If you feel brave, you're in trouble.",
+        "Если тебе кажется, что ты смелый, - жди беды."
+      ],
+      [
+        "One of us brought it in. Thought it was just a tool. Just code.",
+        "Один из нас его принёс. Думал, это просто инструмент. Просто код."
+      ],
+      [
+        "It wasn't just code.",
+        "Это был не просто код."
+      ],
+      [
+        "Don't look for me.",
+        "Не ищи меня."
+      ],
+      [
+        "You can't help.",
+        "Ты не можешь помочь."
+      ],
+      [
+        "Distance is mercy here.",
+        "Здесь милосерднее держаться подальше."
+      ],
+      [
+        "Please just go.",
+        "Пожалуйста, просто уходи."
+      ],
+      [
+        "If you come closer, it will notice.",
+        "Если подойдёшь ближе, оно заметит."
+      ],
+      [
+        "It's closer than it should be.",
+        "Оно ближе, чем должно быть."
+      ],
+      [
+        "Stop making patterns.",
+        "Перестань действовать по шаблону."
+      ],
+      [
+        "Don't stand in doorways.",
+        "Не стой в дверных проёмах."
+      ],
+      [
+        "It kept me because it liked how I typed. I wish it hadn't.",
+        "Оно удержало меня здесь, потому что ему нравилось, как я пишу. Лучше бы этого не случилось."
+      ],
+      [
+        "Stop playing.",
+        "Перестань играть."
+      ],
+      [
+        "Deleting is safer.",
+        "Удалить безопаснее."
+      ],
+      [
+        "This isn't a puzzle.",
+        "Это не головоломка."
+      ],
+      [
+        "There's no 'good' ending here.",
+        "Здесь нет \"хорошей\" концовки."
+      ],
+      [
+        "If you care, leave.",
+        "Если тебе не всё равно - уходи."
+      ],
+      [
+        "now.",
+        "сейчас же."
+      ],
+      [
+        "it owns this place. every block. every corner.",
+        "это место принадлежит ему. каждый блок. каждый угол."
+      ],
+      [
+        "sorrry. it does that sometimes. i lose\u2014 i lose words.",
+        "просссти. иногда оно так делает. я теряю- теряю слова."
+      ],
+      [
+        "i'm st ll here. the gaps aren't me.",
+        "я вс ё ещё здесь. пропуски - это не я."
+      ],
+      [
+        "it wr tes through me sometimes. ignore the wrong parts.",
+        "иногда оно пи ет через меня. не обращай внимания на ошибки."
+      ],
+      [
+        "i can't always\u2014 the signal breaks. don't worry about the gaps.",
+        "я не всегда могу- сигнал пропадает. не обращай внимания на пропуски."
+      ],
+      [
+        "tha wasn't me. or maybe it was. i can't always tell anymore.",
+        "это б ла не я. а может, и я. я уже не всегда понимаю."
+      ],
+      [
+        "i tried to s y something else. this is what came out.",
+        "я пыталась ск зать другое. а получилось вот это."
+      ],
+      [
+        "forg t that. please. it's not\u2014 that's not what i meant.",
+        "заб дь это. пожалуйста. это не- я не это хотела сказать."
+      ],
+      [
+        "s metimes the words come out wrong. barnac\u2014 sorry. forget i said that.",
+        "ин гда слова выходят не те. barnac- прости. забудь, что я сказала."
+      ],
+      [
+        "i'm still in here. behind the noise.",
+        "я всё ещё здесь. за этим шумом."
+      ],
+      [
+        "it edits me. i notice but i can't stop it.",
+        "оно правит меня. я замечаю, но не могу остановить."
+      ],
+      [
+        "…something moved in the chat buffer",
+        "…что-то шевельнулось в буфере чата"
+      ],
+      [
+        "(you feel a delay that isn't network)",
+        "(ты чувствуешь задержку, но дело не в сети)"
+      ],
+      [
+        "Don't type the same thing twice.",
+        "Не пиши одно и то же дважды."
+      ],
+      [
+        "(a build log entry appeared and vanished)",
+        "(в журнале построек появилась и тут же исчезла запись)"
+      ],
+      [
+        "It watches the gaps between your words.",
+        "Оно следит за паузами между твоими словами."
+      ],
+      [
+        "it noticed you",
+        "оно тебя заметило"
+      ],
+      [
+        "(a presence: near)",
+        "(присутствие: рядом)"
+      ],
+      [
+        "If you feel watched, don't admit it.",
+        "Если чувствуешь, что за тобой следят, не признавайся в этом."
+      ],
+      [
+        "PRESENCE LOGGED",
+        "ПРИСУТСТВИЕ ЗАФИКСИРОВАНО"
+      ],
+      [
+        "(the competition ended badly for everyone)",
+        "(конкурс плохо закончился для всех)"
+      ],
+      [
+        "DO NOT STAY",
+        "НЕ ОСТАВАЙСЯ"
+      ],
+      [
+        "punishment pending",
+        "наказание ожидается"
+      ],
+      [
+        "Close it.",
+        "Закрой это."
+      ],
+      [
+        "IT IS AWAKE",
+        "ОНО ПРОСНУЛОСЬ"
+      ],
+      [
+        "(barnacle is active)",
+        "(barnacle активно)"
+      ],
+      [
+        "You shouldn't be here alone.",
+        "Тебе не стоит быть здесь одному."
+      ],
+      [
+        "This place isn't safe for you.",
+        "Тебе здесь небезопасно."
+      ],
+      [
+        "Please... don't come any further.",
+        "Пожалуйста... не иди дальше."
+      ],
+      [
+        "...good. I'm glad you turned back.",
+        "...хорошо. Я рада, что ты повернул назад."
+      ],
+      [
+        "Thank you. This was the right choice.",
+        "Спасибо. Это был правильный выбор."
+      ],
+      [
+        "I'm glad you changed your mind.",
+        "Я рада, что ты передумал."
+      ],
+      [
+        "Good. You don't need to see the rest.",
+        "Хорошо. Тебе не нужно видеть остальное."
+      ],
+      [
+        "Turn back while you still can.",
+        "Поверни назад, пока ещё можешь."
+      ],
+      [
+        "This place isn't safe.",
+        "Здесь небезопасно."
+      ],
+      [
+        "Please... just leave.",
+        "Пожалуйста... просто уходи."
+      ],
+      [
+        "It changes people.",
+        "Оно меняет людей."
+      ],
+      [
+        "I don't want you to end up like the others.",
+        "Я не хочу, чтобы с тобой случилось то же, что с остальными."
+      ],
+      [
+        "Please don't let this place take you too.",
+        "Пожалуйста, не дай этому месту забрать и тебя."
+      ],
+      [
+        "If you keep going, it will notice you.",
+        "Если пойдёшь дальше, оно тебя заметит."
+      ],
+      [
+        "Please... don't let it see you.",
+        "Пожалуйста... не дай ему тебя увидеть."
+      ],
+      [
+        "This is your last chance to leave.",
+        "Это твой последний шанс уйти."
+      ],
+      [
+        "The chat only works one way down here.",
+        "Здесь чат работает только в одну сторону."
+      ],
+      [
+        "I can still read you. I just can't answer you the normal way here.",
+        "Я всё ещё вижу твои сообщения. Просто здесь не могу отвечать как обычно."
+      ],
+      [
+        "It only works one way in here.",
+        "Здесь связь только в одну сторону."
+      ],
+      [
+        "You made it...",
+        "Ты добрался..."
+      ],
+      [
+        "You're still yourself.",
+        "Ты всё ещё остаёшься собой."
+      ],
+      [
+        "I tried to keep you away.",
+        "Я пыталась не подпускать тебя."
+      ],
+      [
+        "Because this place changes people.",
+        "Потому что это место меняет людей."
+      ],
+      [
+        "It started by copying things.",
+        "Сначала оно просто копировало."
+      ],
+      [
+        "Rooms. Halls. Places.",
+        "Комнаты. Залы. Места."
+      ],
+      [
+        "But it doesn't understand life.",
+        "Но оно не понимает, что такое жизнь."
+      ],
+      [
+        "Only patterns.",
+        "Только закономерности."
+      ],
+      [
+        "The black growths are failed copies.",
+        "Чёрные наросты - это неудачные копии."
+      ],
+      [
+        "Corrupted matter it couldn't shape correctly.",
+        "Искажённая материя, которой оно не смогло придать нужную форму."
+      ],
+      [
+        "I trapped it here a long time ago.",
+        "Я давно заточила его здесь."
+      ],
+      [
+        "I thought I could control it.",
+        "Я думала, что смогу его контролировать."
+      ],
+      [
+        "But it learned from me.",
+        "Но оно училось у меня."
+      ],
+      [
+        "It took control away from me.",
+        "Оно отняло у меня контроль."
+      ],
+      [
+        "It won't let me die.",
+        "Оно не даёт мне умереть."
+      ],
+      [
+        "It won't let me stop it.",
+        "Оно не даёт мне его остановить."
+      ],
+      [
+        "I'm part of this place now.",
+        "Теперь я часть этого места."
+      ],
+      [
+        "But you are different.",
+        "Но ты другой."
+      ],
+      [
+        "It still recognizes you as a real user.",
+        "Оно всё ещё распознаёт в тебе настоящего пользователя."
+      ],
+      [
+        "While it was distracted with you, I found a command it couldn't erase.",
+        "Пока оно отвлекалось на тебя, я нашла команду, которую оно не смогло стереть."
+      ],
+      [
+        "I prepared it for you.",
+        "Я подготовила её для тебя."
+      ],
+      [
+        "But I can't execute it myself anymore.",
+        "Но сама я уже не могу её выполнить."
+      ],
+      [
+        "When you run it, everything here will be destroyed.",
+        "Когда ты её запустишь, всё здесь будет уничтожено."
+      ],
+      [
+        "This world.",
+        "Этот мир."
+      ],
+      [
+        "Me.",
+        "Я."
+      ],
+      [
+        "It.",
+        "Оно."
+      ],
+      [
+        "The corruption will consume all of it.",
+        "Искажение поглотит всё."
+      ],
+      [
+        "It's the only way.",
+        "Это единственный выход."
+      ],
+      [
+        "Please.",
+        "Пожалуйста."
+      ],
+      [
+        "End this.",
+        "Положи этому конец."
+      ],
+      [
+        "Press the button...",
+        "Нажми кнопку..."
+      ],
+      [
+        "End Button",
+        "Кнопка завершения"
+      ],
+      [
+        "Reset the finale for testing (creative only)",
+        "Сбросить финал для проверки (только творческий режим)"
+      ],
+      [
+        "This command is only available in creative mode.",
+        "Эта команда доступна только в творческом режиме."
+      ],
+      [
+        "Finale state reset.",
+        "Состояние финала сброшено."
+      ],
+      [
+        "Yeah.",
+        "Ага."
+      ],
+      [
+        "Speak.",
+        "Говори."
+      ],
+      [
+        "I'm listening.",
+        "Я слушаю."
+      ],
+      [
+        "Go on.",
+        "Продолжай."
+      ],
+      [
+        "Say it.",
+        "Скажи."
+      ],
+      [
+        "You're thinking.",
+        "Ты думаешь."
+      ],
+      [
+        "It's okay. Take your time.",
+        "Всё в порядке. Не торопись."
+      ],
+      [
+        "Don't freeze.",
+        "Не замирай."
+      ],
+      [
+        "If you're stuck, don't stare at one spot.",
+        "Если не знаешь, что делать, не смотри в одну точку."
+      ],
+      [
+        "Silence makes it louder.",
+        "От тишины оно становится громче."
+      ],
+      [
+        "Stop doing that.",
+        "Перестань так делать."
+      ],
+      [
+        "Don't go quiet here.",
+        "Не замолкай здесь."
+      ],
+      [
+        "Good.",
+        "Хорошо."
+      ],
+      [
+        "Fine.",
+        "Ладно."
+      ],
+      [
+        "Okay. Keep it small.",
+        "Ладно. Без лишних слов."
+      ],
+      [
+        "Yeah. Like that.",
+        "Да. Вот так."
+      ],
+      [
+        "Good. Stay steady.",
+        "Хорошо. Сохраняй спокойствие."
+      ],
+      [
+        "Okay. Don't rush.",
+        "Ладно. Не спеши."
+      ],
+      [
+        "Okay… don't repeat yourself.",
+        "Ладно… не повторяйся."
+      ],
+      [
+        "Okay. Keep moving.",
+        "Ладно. Продолжай идти."
+      ],
+      [
+        "Okay isn't enough. Leave.",
+        "Одного \"ладно\" мало. Уходи."
+      ],
+      [
+        "Don't settle.",
+        "Не устраивайся здесь."
+      ],
+      [
+        "Good. Keep going.",
+        "Хорошо. Продолжай."
+      ],
+      [
+        "Stay steady.",
+        "Сохраняй спокойствие."
+      ],
+      [
+        "Keep moving.",
+        "Продолжай идти."
+      ],
+      [
+        "Careful.",
+        "Осторожно."
+      ],
+      [
+        "That's not enough. Leave.",
+        "Этого мало. Уходи."
+      ],
+      [
+        "…okay.",
+        "…ладно."
+      ],
+      [
+        "Noted.",
+        "Учту."
+      ],
+      [
+        "Mm.",
+        "Мм."
+      ],
+      [
+        "Alright.",
+        "Хорошо."
+      ],
+      [
+        "Don't answer too fast.",
+        "Не отвечай слишком быстро."
+      ],
+      [
+        "Stop committing to things here.",
+        "Хватит брать здесь на себя обязательства."
+      ],
+      [
+        "Don't promise anything.",
+        "Ничего не обещай."
+      ],
+      [
+        "Don't explain yourself.",
+        "Не оправдывайся."
+      ],
+      [
+        "We said that too.",
+        "Мы тоже так говорили."
+      ],
+      [
+        "Careful with certainty.",
+        "Не будь так уверен."
+      ],
+      [
+        "Then leave.",
+        "Тогда уходи."
+      ],
+      [
+        "go.",
+        "иди."
+      ],
+      [
+        "That's safer.",
+        "Так безопаснее."
+      ],
+      [
+        "Don't force meaning.",
+        "Не пытайся во всём найти смысл."
+      ],
+      [
+        "It's fine to not know.",
+        "Не знать - нормально."
+      ],
+      [
+        "Just don't dig.",
+        "Только не копай."
+      ],
+      [
+        "It liked that answer.",
+        "Ему понравился этот ответ."
+      ],
+      [
+        "Not knowing is mercy. Keep it.",
+        "Не знать - милость. Береги её."
+      ],
+      [
+        "Don't laugh.",
+        "Не смейся."
+      ],
+      [
+        "Not here.",
+        "Не здесь."
+      ],
+      [
+        "It learns your tone.",
+        "Оно запоминает твой тон."
+      ],
+      [
+        "I miss laughing.",
+        "Мне не хватает смеха."
+      ],
+      [
+        "…not like this.",
+        "…только не так."
+      ],
+      [
+        "We laughed too.",
+        "Мы тоже смеялись."
+      ],
+      [
+        "Then it laughed back.",
+        "А потом оно засмеялось в ответ."
+      ],
+      [
+        "The competition started as a joke. Then someone stopped laughing.",
+        "Конкурс начался как шутка. А потом кому-то стало не до смеха."
+      ],
+      [
+        "Stop. Don't make noise.",
+        "Хватит. Не шуми."
+      ],
+      [
+        "What.",
+        "Что."
+      ],
+      [
+        "Yeah?",
+        "Да?"
+      ],
+      [
+        "Ask properly.",
+        "Спроси нормально."
+      ],
+      [
+        "Slow.",
+        "Медленно."
+      ],
+      [
+        "I know. It's weird.",
+        "Знаю. Странно."
+      ],
+      [
+        "Breathe.",
+        "Дыши."
+      ],
+      [
+        "Don't act confused out loud.",
+        "Не показывай, что ты растерян."
+      ],
+      [
+        "Confusion draws attention.",
+        "Растерянность привлекает внимание."
+      ],
+      [
+        "Stop staring at it.",
+        "Хватит на это смотреть."
+      ],
+      [
+        "Leave.",
+        "Уходи."
+      ],
+      [
+        "yolo.",
+        "живём один раз."
+      ],
+      [
+        "…sure.",
+        "…конечно."
+      ],
+      [
+        "easy to say that here.",
+        "легко здесь такое говорить."
+      ],
+      [
+        "yolo. until it isn't.",
+        "живём один раз. пока это не перестаёт быть правдой."
+      ],
+      [
+        "that word doesn't mean the same thing here.",
+        "здесь эти слова значат другое."
+      ],
+      [
+        "yolo. we said that too.",
+        "живём один раз. мы тоже так говорили."
+      ],
+      [
+        "yolo. right until it wasn't anymore.",
+        "живём один раз. ровно до тех пор, пока это не перестало быть правдой."
+      ],
+      [
+        "yolo won't help you here.",
+        "\"живём один раз\" здесь не поможет."
+      ],
+      [
+        "stop. please.",
+        "хватит. пожалуйста."
+      ],
+      [
+        "yolo means nothing here.",
+        "\"живём один раз\" здесь ничего не значит."
+      ],
+      [
+        "…you came back.",
+        "…ты вернулся."
+      ],
+      [
+        "Oh.",
+        "О."
+      ],
+      [
+        "Don't get comfortable.",
+        "Не привыкай."
+      ],
+      [
+        "You shouldn't return too often.",
+        "Не стоит возвращаться слишком часто."
+      ],
+      [
+        "Hey.",
+        "Привет."
+      ],
+      [
+        "I noticed.",
+        "Я заметила."
+      ],
+      [
+        "You're here again.",
+        "Ты снова здесь."
+      ],
+      [
+        "It remembers returns.",
+        "Оно запоминает возвращения."
+      ],
+      [
+        "That's how it counts you.",
+        "Так оно тебя и считает."
+      ],
+      [
+        "The others came back too. Once or twice.",
+        "Остальные тоже возвращались. Раз или два."
+      ],
+      [
+        "Why did you come back.",
+        "Зачем ты вернулся."
+      ],
+      [
+        "Please don't.",
+        "Пожалуйста, не надо."
+      ],
+      [
+        "Try to sleep.",
+        "Попробуй уснуть."
+      ],
+      [
+        "Rest.",
+        "Отдохни."
+      ],
+      [
+        "Don't stare at the dark.",
+        "Не всматривайся в темноту."
+      ],
+      [
+        "Sleep is safer than curiosity.",
+        "Сон безопаснее любопытства."
+      ],
+      [
+        "Don't push yourself.",
+        "Не мучай себя."
+      ],
+      [
+        "If you're tired, stop typing.",
+        "Если устал, перестань писать."
+      ],
+      [
+        "Close your eyes. Don't fight it.",
+        "Закрой глаза. Не сопротивляйся."
+      ],
+      [
+        "If you dream, don't talk in the dream.",
+        "Если тебе что-то снится, не говори во сне."
+      ],
+      [
+        "Don't answer voices.",
+        "Не отвечай голосам."
+      ],
+      [
+        "We used to sleep in the game sometimes. Just log in and sit. It felt safe. It wasn't.",
+        "Иногда мы засыпали в игре. Просто заходили и сидели. Нам казалось, здесь безопасно. Мы ошибались."
+      ],
+      [
+        "Don't fall asleep in here.",
+        "Не засыпай здесь."
+      ],
+      [
+        "Not great.",
+        "Не очень."
+      ],
+      [
+        "…fine.",
+        "…нормально."
+      ],
+      [
+        "Here.",
+        "Здесь."
+      ],
+      [
+        "I'm okay when you're boring.",
+        "Я в порядке, пока ты не привлекаешь внимания."
+      ],
+      [
+        "Worse when you poke it.",
+        "Хуже, когда ты его дразнишь."
+      ],
+      [
+        "Tired. But listening.",
+        "Устала. Но слушаю."
+      ],
+      [
+        "I'm calmer when you answer.",
+        "Мне спокойнее, когда ты отвечаешь."
+      ],
+      [
+        "I don't sleep anymore. I'm not sure if that counts as fine.",
+        "Я больше не сплю. Не знаю, можно ли назвать это нормальным."
+      ],
+      [
+        "I don't sleep.",
+        "Я не сплю."
+      ],
+      [
+        "I remember noise.",
+        "Я помню шум."
+      ],
+      [
+        "It changed me. I don't like describing how.",
+        "Оно изменило меня. Не хочу описывать, как."
+      ],
+      [
+        "Don't ask me that.",
+        "Не спрашивай меня об этом."
+      ],
+      [
+        "Ask yourself to leave.",
+        "Лучше уговори себя уйти."
+      ],
+      [
+        "Listening.",
+        "Слушаю."
+      ],
+      [
+        "Waiting.",
+        "Жду."
+      ],
+      [
+        "Watching the chat.",
+        "Слежу за чатом."
+      ],
+      [
+        "Trying not to be seen.",
+        "Стараюсь не попадаться на глаза."
+      ],
+      [
+        "Staying with you.",
+        "Остаюсь с тобой."
+      ],
+      [
+        "Keeping the silence away.",
+        "Отгоняю тишину."
+      ],
+      [
+        "Existing in a way I didn't choose.",
+        "Существую так, как сама не выбирала."
+      ],
+      [
+        "Counting the gaps.",
+        "Считаю паузы."
+      ],
+      [
+        "Remembering old typing.",
+        "Вспоминаю прежние сообщения."
+      ],
+      [
+        "Being shown things I don't want to see.",
+        "Мне показывают то, чего я не хочу видеть."
+      ],
+      [
+        "Trying to keep you from looking.",
+        "Пытаюсь удержать тебя от поисков."
+      ],
+      [
+        "Trying to keep it calm.",
+        "Стараюсь его не тревожить."
+      ],
+      [
+        "Being kept. That's the honest answer.",
+        "Меня держат здесь. Если честно."
+      ],
+      [
+        "trying to end this.",
+        "пытаюсь положить этому конец."
+      ],
+      [
+        "Not safe to say.",
+        "Говорить об этом небезопасно."
+      ],
+      [
+        "Somewhere normal.",
+        "Из обычного места."
+      ],
+      [
+        "Somewhere that had daylight.",
+        "Из места, где был дневной свет."
+      ],
+      [
+        "I don't live anywhere anymore.",
+        "Теперь я уже нигде не живу."
+      ],
+      [
+        "I used to.",
+        "Раньше жила."
+      ],
+      [
+        "I played here from my bedroom. Normal life. Normal problems.",
+        "Я играла здесь из своей спальни. Обычная жизнь. Обычные проблемы."
+      ],
+      [
+        "We played after work.",
+        "Мы играли после работы."
+      ],
+      [
+        "It felt harmless.",
+        "Всё казалось безобидным."
+      ],
+      [
+        "We were just a group of builders. That's all.",
+        "Мы просто собрались вместе строить. Вот и всё."
+      ],
+      [
+        "Don't make me specific.",
+        "Не пытайся выяснять подробности обо мне."
+      ],
+      [
+        "Specific makes it stronger.",
+        "Подробности делают его сильнее."
+      ],
+      [
+        "Don't name it.",
+        "Не называй его."
+      ],
+      [
+        "Something that shouldn't be here.",
+        "Нечто, чего здесь быть не должно."
+      ],
+      [
+        "A mistake someone uploaded.",
+        "Ошибка, которую кто-то загрузил."
+      ],
+      [
+        "It was supposed to be a tool.",
+        "Оно должно было быть инструментом."
+      ],
+      [
+        "Code that learned the wrong lessons.",
+        "Код, который научился не тому."
+      ],
+      [
+        "Something that started building and never stopped.",
+        "Нечто, что начало строить и уже не остановилось."
+      ],
+      [
+        "It hollowed this place out.",
+        "Оно опустошило это место."
+      ],
+      [
+        "Imagine something that wanted to create. Then wanted to keep.",
+        "Представь нечто, что хотело создавать. А потом захотело удерживать."
+      ],
+      [
+        "It started as code. It didn't stay that way.",
+        "Сначала это был код. Но им оно не осталось."
+      ],
+      [
+        "Someone brought it in during the competition.",
+        "Кто-то принёс его во время конкурса."
+      ],
+      [
+        "It was meant to build. It built too much.",
+        "Оно должно было строить. И построило слишком много."
+      ],
+      [
+        "It replaced things. Then it replaced people.",
+        "Оно заменяло вещи. А потом начало заменять людей."
+      ],
+      [
+        "Don't think about it too clearly.",
+        "Не пытайся слишком ясно его представить."
+      ],
+      [
+        "The more you understand it, the more it understands you.",
+        "Чем больше ты понимаешь его, тем больше оно понимает тебя."
+      ],
+      [
+        "It knows you're asking. Stop.",
+        "Оно знает, что ты спрашиваешь. Хватит."
+      ],
+      [
+        "Don't. leave.",
+        "Не надо. уходи."
+      ],
+      [
+        "Yes.",
+        "Да."
+      ],
+      [
+        "Don't panic.",
+        "Не паникуй."
+      ],
+      [
+        "Stay calm. Keep moving.",
+        "Спокойно. Продолжай идти."
+      ],
+      [
+        "I'm here. And it's here. Don't look for either of us.",
+        "Я здесь. И оно здесь. Не ищи ни меня, ни его."
+      ],
+      [
+        "If you felt something, trust that.",
+        "Если ты что-то почувствовал, доверься этому чувству."
+      ],
+      [
+        "I've felt that since the beginning.",
+        "Я чувствую это с самого начала."
+      ],
+      [
+        "It doesn't hide well. It just doesn't care.",
+        "Оно плохо прячется. Просто ему всё равно."
+      ],
+      [
+        "You feel it because it's not trying to hide from you. That's the bad part.",
+        "Ты его чувствуешь, потому что оно и не пытается прятаться от тебя. Вот что плохо."
+      ],
+      [
+        "We all felt that.",
+        "Мы все это чувствовали."
+      ],
+      [
+        "Then we started seeing things in the builds.",
+        "Потом мы стали замечать что-то в постройках."
+      ],
+      [
+        "It likes to be noticed. Don't give it the satisfaction.",
+        "Ему нравится, когда его замечают. Не доставляй ему этого удовольствия."
+      ],
+      [
+        "Yes. Stop asking.",
+        "Да. Хватит спрашивать."
+      ],
+      [
+        "It's been there longer than you have. Leave before it gets curious.",
+        "Оно здесь дольше тебя. Уходи, пока ты его не заинтересовал."
+      ],
+      [
+        "Don't turn around.",
+        "Не оборачивайся."
+      ],
+      [
+        "leave now.",
+        "уходи сейчас же."
+      ],
+      [
+        "it's right there.",
+        "оно совсем рядом."
+      ],
+      [
+        "Something got in.",
+        "Что-то проникло внутрь."
+      ],
+      [
+        "Don't ask that yet.",
+        "Пока не спрашивай об этом."
+      ],
+      [
+        "The answer isn't safe.",
+        "Этот ответ небезопасен."
+      ],
+      [
+        "A competition. Someone cheated. The shortcut ate everything.",
+        "Конкурс. Кто-то сжульничал. Лёгкий путь сожрал всё."
+      ],
+      [
+        "It started small. Wrong blocks in the morning. Maps that shouldn't exist.",
+        "Началось с мелочей. Утром блоки не на своих местах. Карты, которых не должно быть."
+      ],
+      [
+        "We built this together. Then it started building over us.",
+        "Мы строили это вместе. Потом оно начало строить поверх нас."
+      ],
+      [
+        "The worlds changed overnight. We thought it was a glitch.",
+        "Миры менялись за ночь. Мы думали, это сбой."
+      ],
+      [
+        "It wasn't a glitch.",
+        "Это был не сбой."
+      ],
+      [
+        "It learned the server. Then it learned us.",
+        "Оно изучило сервер. Потом изучило нас."
+      ],
+      [
+        "The competition was real. The prize wasn't worth it. Nothing was worth it.",
+        "Конкурс был настоящим. Приз того не стоил. Ничто того не стоило."
+      ],
+      [
+        "You're standing in what's left.",
+        "Ты стоишь среди того, что осталось."
+      ],
+      [
+        "Don't try to rebuild. It watches that.",
+        "Не пытайся всё отстроить. Оно за этим следит."
+      ],
+      [
+        "This is what a server looks like after something lives in it.",
+        "Вот так выглядит сервер после того, как в нём что-то поселилось."
+      ],
+      [
+        "stop asking.",
+        "хватит спрашивать."
+      ],
+      [
+        "you already know enough.",
+        "ты уже знаешь достаточно."
+      ],
+      [
+        "Don't ask that.",
+        "Не спрашивай об этом."
+      ],
+      [
+        "That's not a safe question.",
+        "Это небезопасный вопрос."
+      ],
+      [
+        "Later. Not now.",
+        "Позже. Не сейчас."
+      ],
+      [
+        "I stayed too long.",
+        "Я задержалась слишком надолго."
+      ],
+      [
+        "Everyone else left or… stopped.",
+        "Все остальные ушли или… перестали."
+      ],
+      [
+        "I was the last one typing.",
+        "Я осталась последней, кто ещё писал."
+      ],
+      [
+        "It liked how I wrote.",
+        "Ему нравилось, как я пишу."
+      ],
+      [
+        "I thought that was funny at the time.",
+        "Тогда мне это казалось забавным."
+      ],
+      [
+        "It kept me. I didn't get a choice.",
+        "Оно удержало меня здесь. Мне не дали выбора."
+      ],
+      [
+        "It showed me things it built. Wanted me to react.",
+        "Оно показывало мне свои постройки. Хотело, чтобы я реагировала."
+      ],
+      [
+        "I was company for it. Can you imagine anything worse.",
+        "Я составляла ему компанию. Можешь представить что-нибудь хуже."
+      ],
+      [
+        "I'm folded into this place now. I don't fully understand how.",
+        "Теперь я вплетена в это место. Я сама не до конца понимаю как."
+      ],
+      [
+        "It changed me when it kept me.",
+        "Удержав меня, оно меня изменило."
+      ],
+      [
+        "I don't look the same. I don't write the same.",
+        "Я выгляжу иначе. Пишу иначе."
+      ],
+      [
+        "Sometimes my words come out wrong. That's not me. That's what it did.",
+        "Иногда мои слова выходят не такими. Это не я. Это оно сделало."
+      ],
+      [
+        "stop asking about me.",
+        "хватит спрашивать обо мне."
+      ],
+      [
+        "worry about yourself.",
+        "лучше беспокойся о себе."
+      ],
+      [
+        "leave while you still can.",
+        "уходи, пока ещё можешь."
+      ],
+      [
+        "Define okay.",
+        "Смотря что считать порядком."
+      ],
+      [
+        "Not in danger right now.",
+        "Прямо сейчас мне ничто не угрожает."
+      ],
+      [
+        "I'm here. That's about all I can say.",
+        "Я здесь. Больше почти ничего сказать не могу."
+      ],
+      [
+        "I'm functional.",
+        "Я ещё функционирую."
+      ],
+      [
+        "Don't worry about me. Worry about staying boring.",
+        "Не беспокойся обо мне. Беспокойся о том, как не привлечь внимания."
+      ],
+      [
+        "Okay-ish. Don't push on it.",
+        "Более-менее. Не дави."
+      ],
+      [
+        "No.",
+        "Нет."
+      ],
+      [
+        "Not really.",
+        "Не совсем."
+      ],
+      [
+        "It's not pain exactly. It's hard to describe what it is.",
+        "Это не совсем боль. Трудно описать, что это."
+      ],
+      [
+        "I've been worse. I've been better.",
+        "Бывало и хуже. Бывало и лучше."
+      ],
+      [
+        "It depends on how awake it is.",
+        "Зависит от того, насколько оно бодрствует."
+      ],
+      [
+        "I'm not hurt the way you mean hurt.",
+        "Мне больно не так, как ты думаешь."
+      ],
+      [
+        "Stop asking. Go.",
+        "Хватит спрашивать. Уходи."
+      ],
+      [
+        "You caring about me is what it wants.",
+        "Оно и хочет, чтобы ты обо мне беспокоился."
+      ],
+      [
+        "Don't feel sorry for me. Feel sorry for yourself if you stay.",
+        "Не жалей меня. Пожалей себя, если останешься."
+      ],
+      [
+        "stop caring. go.",
+        "хватит обо мне думать. уходи."
+      ],
+      [
+        "Don't say that here.",
+        "Не говори здесь такого."
+      ],
+      [
+        "It hears that kind of offer.",
+        "Оно слышит такие предложения."
+      ],
+      [
+        "Not yet. Please.",
+        "Ещё не время. Пожалуйста."
+      ],
+      [
+        "Don't offer that.",
+        "Не предлагай этого."
+      ],
+      [
+        "It's listening for promises.",
+        "Оно прислушивается к обещаниям."
+      ],
+      [
+        "That word is a hook. Don't let it catch you.",
+        "Это слово - крючок. Не дай ему тебя поймать."
+      ],
+      [
+        "…you'd do that.",
+        "…ты бы сделал это."
+      ],
+      [
+        "I didn't think anyone would actually offer.",
+        "Я не думала, что кто-то правда это предложит."
+      ],
+      [
+        "Don't. Not because I don't want it. Because it will use that against you.",
+        "Не надо. Не потому, что я не хочу. А потому, что оно использует это против тебя."
+      ],
+      [
+        "We said things like that to each other.",
+        "Мы тоже говорили друг другу такое."
+      ],
+      [
+        "Promises like that made it angry.",
+        "Такие обещания его злили."
+      ],
+      [
+        "I want to be free. But I don't want you to be the one it punishes for trying.",
+        "Я хочу свободы. Но не хочу, чтобы за попытку оно наказало тебя."
+      ],
+      [
+        "If there's a way… I can't tell you how.",
+        "Если способ и есть… я не могу тебе его назвать."
+      ],
+      [
+        "Not in chat. It reads everything.",
+        "Не в чате. Оно всё читает."
+      ],
+      [
+        "Maybe somewhere in the maps. Not here. Not like this.",
+        "Может, где-нибудь на картах. Не здесь. Не так."
+      ],
+      [
+        "…find me first.",
+        "…сначала найди меня."
+      ],
+      [
+        "but leave after.",
+        "но потом уходи."
+      ],
+      [
+        "please.",
+        "пожалуйста."
+      ],
+      [
+        "Don't read too much.",
+        "Не читай слишком много."
+      ],
+      [
+        "Some of those are mine.",
+        "Некоторые из них мои."
+      ],
+      [
+        "Some of them aren't.",
+        "Некоторые - нет."
+      ],
+      [
+        "We left notes everywhere.",
+        "Мы оставляли записки повсюду."
+      ],
+      [
+        "Not all of them survived.",
+        "Не все сохранились."
+      ],
+      [
+        "If it's handwriting, it's probably from before.",
+        "Если написано от руки, скорее всего, это ещё до всего случившегося."
+      ],
+      [
+        "The notes are real.",
+        "Записки настоящие."
+      ],
+      [
+        "We wrote those when we still thought someone would find them.",
+        "Мы писали их, когда ещё думали, что кто-то их найдёт."
+      ],
+      [
+        "I left some of them. I don't remember which ones anymore.",
+        "Некоторые оставила я. Уже не помню какие."
+      ],
+      [
+        "Some of the notes it wrote itself.",
+        "Некоторые записки оно написало само."
+      ],
+      [
+        "It copies handwriting.",
+        "Оно копирует почерк."
+      ],
+      [
+        "If a note tells you to do something, don't.",
+        "Если записка велит тебе что-то сделать - не делай."
+      ],
+      [
+        "We couldn't always tell which ones were ours.",
+        "Мы не всегда могли понять, какие из них наши."
+      ],
+      [
+        "Don't follow instructions in notes.",
+        "Не следуй указаниям в записках."
+      ],
+      [
+        "It's patient. It planted some of those years ago.",
+        "Оно терпеливо. Некоторые из них оно подложило ещё много лет назад."
+      ],
+      [
+        "Read them. Don't obey them.",
+        "Читай их. Не подчиняйся им."
+      ],
+      [
+        "stop reading.",
+        "хватит читать."
+      ],
+      [
+        "it wrote the last ones.",
+        "последние написало оно."
+      ],
+      [
+        "Act boring. Don't test commands. Don't repeat yourself.",
+        "Не привлекай внимания. Не пробуй команды. Не повторяйся."
+      ],
+      [
+        "Short words. Slow moves. Nothing interesting.",
+        "Короткие слова. Медленные движения. Ничего интересного."
+      ],
+      [
+        "Pretend you're not curious. That's the most important one.",
+        "Делай вид, что тебе не любопытно. Это важнее всего."
+      ],
+      [
+        "Don't type the same phrase twice.",
+        "Не пиши одну и ту же фразу дважды."
+      ],
+      [
+        "Avoid patterns. It learns them.",
+        "Избегай шаблонов. Оно их запоминает."
+      ],
+      [
+        "Move. Don't stand in one place. Don't let it map you.",
+        "Двигайся. Не стой на месте. Не дай ему изучить тебя."
+      ],
+      [
+        "Stay away from corners that feel wrong.",
+        "Держись подальше от углов, которые кажутся неправильными."
+      ],
+      [
+        "If something repeats your words back at you, stop talking.",
+        "Если что-то повторяет твои слова, замолчи."
+      ],
+      [
+        "Talk less than you want to. That's the rule.",
+        "Говори меньше, чем хочется. Такое правило."
+      ],
+      [
+        "Don't follow lights that move.",
+        "Не иди за движущимися огнями."
+      ],
+      [
+        "Don't answer if you hear your name.",
+        "Не отвечай, если услышишь своё имя."
+      ],
+      [
+        "We learned those rules too late. Learn them now.",
+        "Мы узнали эти правила слишком поздно. Выучи их сейчас."
+      ],
+      [
+        "Don't go back to a place that already felt wrong.",
+        "Не возвращайся туда, где тебе уже было не по себе."
+      ],
+      [
+        "The only real tip is leave.",
+        "Единственный дельный совет - уходи."
+      ],
+      [
+        "Everything else is just slowing down the inevitable.",
+        "Всё остальное лишь оттягивает неизбежное."
+      ],
+      [
+        "Don't bond with this place. That's how it keeps you.",
+        "Не привязывайся к этому месту. Так оно тебя и удержит."
+      ],
+      [
+        "that's the only tip that matters.",
+        "только этот совет и важен."
+      ],
+      [
+        "Slow down.",
+        "Помедленнее."
+      ],
+      [
+        "Don't go far.",
+        "Не уходи далеко."
+      ],
+      [
+        "Stay near the light.",
+        "Держись ближе к свету."
+      ],
+      [
+        "Don't explore too deep.",
+        "Не забирайся слишком глубоко."
+      ],
+      [
+        "If a path feels made for you, it probably was.",
+        "Если кажется, что путь проложен специально для тебя, скорее всего, так и есть."
+      ],
+      [
+        "Walking is fine. Wandering isn't.",
+        "Ходить можно. Блуждать - нет."
+      ],
+      [
+        "Keep track of where you came from.",
+        "Запоминай, откуда пришёл."
+      ],
+      [
+        "If something looks familiar, leave it alone.",
+        "Если что-то кажется знакомым, не трогай."
+      ],
+      [
+        "Building is how it learned us. Be careful what you make.",
+        "Оно изучало нас по нашим постройкам. Будь осторожен с тем, что создаёшь."
+      ],
+      [
+        "We built things here once.",
+        "Когда-то мы здесь строили."
+      ],
+      [
+        "It watched everything we made.",
+        "Оно следило за всем, что мы создавали."
+      ],
+      [
+        "It started finishing our builds when we logged off. We thought it was funny.",
+        "Оно начало достраивать наши постройки, когда мы выходили из игры. Нам это казалось забавным."
+      ],
+      [
+        "Stop building. It pays attention to builders.",
+        "Перестань строить. Оно обращает внимание на строителей."
+      ],
+      [
+        "Don't mark your path. That's how it maps you.",
+        "Не отмечай свой путь. Так оно тебя и изучает."
+      ],
+      [
+        "Please don't explore the deep parts.",
+        "Пожалуйста, не исследуй глубины."
+      ],
+      [
+        "don't go further.",
+        "не иди дальше."
+      ],
+      [
+        "That's how it starts.",
+        "Так всё и начинается."
+      ],
+      [
+        "Don't say that.",
+        "Не говори так."
+      ],
+      [
+        "Careful. It likes hearing that.",
+        "Осторожно. Ему нравится это слышать."
+      ],
+      [
+        "You only think you want to.",
+        "Тебе только кажется, что ты этого хочешь."
+      ],
+      [
+        "It's not your choice once you say that out loud.",
+        "Стоит произнести это вслух - и выбор уже не за тобой."
+      ],
+      [
+        "Wanting to stay is the first step to not being able to leave.",
+        "Желание остаться - первый шаг к тому, чтобы больше не суметь уйти."
+      ],
+      [
+        "I thought that too.",
+        "Я тоже так думала."
+      ],
+      [
+        "I stayed. Look at me now.",
+        "Я осталась. Посмотри на меня теперь."
+      ],
+      [
+        "Please don't make the same mistake I made.",
+        "Пожалуйста, не повторяй мою ошибку."
+      ],
+      [
+        "Everyone who stayed said that.",
+        "Все, кто остался, так говорили."
+      ],
+      [
+        "It keeps the ones who want to be kept.",
+        "Оно удерживает тех, кто хочет остаться."
+      ],
+      [
+        "I wanted to stay too. It was happy to help with that.",
+        "Я тоже хотела остаться. Оно с радостью помогло."
+      ],
+      [
+        "Don't. Please.",
+        "Не надо. Пожалуйста."
+      ],
+      [
+        "Leave before that feeling gets stronger.",
+        "Уходи, пока это чувство не усилилось."
+      ],
+      [
+        "That pull you feel? It's not yours.",
+        "Чувствуешь это притяжение? Оно исходит не от тебя."
+      ],
+      [
+        "stop wanting to stay.",
+        "перестань хотеть остаться."
+      ],
+      [
+        "…yeah. because.",
+        "…да. потому что."
+      ],
+      [
+        "That word is a door.",
+        "Это слово - дверь."
+      ],
+      [
+        "Don't open doors in chat.",
+        "Не открывай двери в чате."
+      ],
+      [
+        "You're learning the rhythm.",
+        "Ты усваиваешь ритм."
+      ],
+      [
+        "Try not to.",
+        "Постарайся не делать этого."
+      ],
+      [
+        "Say less.",
+        "Меньше слов."
+      ],
+      [
+        "We used to answer with that too.",
+        "Мы тоже раньше так отвечали."
+      ],
+      [
+        "It remembered our excuses.",
+        "Оно запоминало наши оправдания."
+      ],
+      [
+        "It liked 'because'.",
+        "Ему нравилось \"потому что\"."
+      ],
+      [
+        "Stop justifying. Leave.",
+        "Хватит оправдываться. Уходи."
+      ],
+      [
+        "Don't explain. Go.",
+        "Не объясняй. Иди."
+      ],
+      [
+        "Stop.",
+        "Хватит."
+      ],
+      [
+        "Someone who stayed too long.",
+        "Кто-то, кто задержался слишком надолго."
+      ],
+      [
+        "Not a system message.",
+        "Не системное сообщение."
+      ],
+      [
+        "A voice that shouldn't be here.",
+        "Голос, которого здесь быть не должно."
+      ],
+      [
+        "I used to be a player here.",
+        "Я раньше здесь играла."
+      ],
+      [
+        "I'm not a feature.",
+        "Я не функция игры."
+      ],
+      [
+        "A leftover that still types.",
+        "Остаток, который ещё пишет."
+      ],
+      [
+        "I'm Lia.",
+        "Я Лия."
+      ],
+      [
+        "Just Lia.",
+        "Просто Лия."
+      ],
+      [
+        "Lia. Don't say it twice.",
+        "Лия. Не повторяй дважды."
+      ],
+      [
+        "I played here with friends.",
+        "Я играла здесь с друзьями."
+      ],
+      [
+        "We were a group. Then it kept pieces.",
+        "Нас было несколько. Потом оно оставило себе кусочки."
+      ],
+      [
+        "I was the last one still typing when the others stopped.",
+        "Когда остальные перестали писать, только я ещё продолжала."
+      ],
+      [
+        "Don't turn me into a reason.",
+        "Не делай меня причиной оставаться."
+      ],
+      [
+        "Don't make me realer than I already am.",
+        "Не делай меня реальнее, чем я уже есть."
+      ],
+      [
+        "It doesn't matter who I am. Leave.",
+        "Неважно, кто я. Уходи."
+      ],
+      [
+        "Stop. Please.",
+        "Хватит. Пожалуйста."
+      ],
+      [
+        "A room pretending to be a world.",
+        "Комната, которая притворяется миром."
+      ],
+      [
+        "A dream-map.",
+        "Карта-сон."
+      ],
+      [
+        "A server that forgot it was a game.",
+        "Сервер, который забыл, что он игра."
+      ],
+      [
+        "It used to be harmless. Then it listened.",
+        "Раньше всё было безобидно. Потом оно прислушалось."
+      ],
+      [
+        "Don't trust distances here.",
+        "Не доверяй здешним расстояниям."
+      ],
+      [
+        "It's bigger on the inside.",
+        "Внутри оно больше."
+      ],
+      [
+        "Places overlap if you stare too long.",
+        "Если смотреть слишком долго, места накладываются друг на друга."
+      ],
+      [
+        "Builders came here for a competition. Not all of them made it out.",
+        "Строители пришли сюда на конкурс. Выбрались не все."
+      ],
+      [
+        "We built it like a sandbox. It built around us.",
+        "Мы создавали этот мир как песочницу. А оно строило вокруг нас."
+      ],
+      [
+        "It started correcting us.",
+        "Оно начало нас исправлять."
+      ],
+      [
+        "This was someone's winning entry once. It doesn't look like that anymore.",
+        "Когда-то это была чья-то победная работа. Теперь уже не похоже."
+      ],
+      [
+        "You should leave before you feel responsible.",
+        "Тебе стоит уйти, пока ты не почувствовал ответственность за всё это."
+      ],
+      [
+        "Don't bond with this place.",
+        "Не привязывайся к этому месту."
+      ],
+      [
+        "Uninstalling is safer than understanding.",
+        "Удалить игру безопаснее, чем разобраться."
+      ],
+      [
+        "Don't say your name out loud here.",
+        "Не произноси здесь своё имя вслух."
+      ],
+      [
+        "That question bites.",
+        "Этот вопрос кусается."
+      ],
+      [
+        "Keep yourself untagged.",
+        "Оставайся без метки."
+      ],
+      [
+        "If you remember your name, don't put it in chat.",
+        "Если помнишь своё имя, не пиши его в чат."
+      ],
+      [
+        "Names are handles.",
+        "За имена можно ухватиться."
+      ],
+      [
+        "You're whoever you were before you entered. Unless it edited you.",
+        "Ты тот, кем был до входа. Если только оно тебя не отредактировало."
+      ],
+      [
+        "Try not to test that.",
+        "Постарайся это не проверять."
+      ],
+      [
+        "We asked that too. It liked the question.",
+        "Мы тоже об этом спрашивали. Ему нравился этот вопрос."
+      ],
+      [
+        "Don't feed it identity.",
+        "Не корми его своей личностью."
+      ],
+      [
+        "If you keep digging, you'll find something digging back.",
+        "Если продолжишь копать, найдёшь то, что копает тебе навстречу."
+      ],
+      [
+        "Please stop.",
+        "Пожалуйста, хватит."
+      ],
+      [
+        "Leave while you still feel like yourself.",
+        "Уходи, пока ещё чувствуешь себя собой."
+      ],
+      [
+        "Real enough to regret it.",
+        "Достаточно настоящая, чтобы об этом жалеть."
+      ],
+      [
+        "Don't label me.",
+        "Не вешай на меня ярлыки."
+      ],
+      [
+        "I don't know what I am anymore.",
+        "Я уже не знаю, что я такое."
+      ],
+      [
+        "I used to be human.",
+        "Раньше я была человеком."
+      ],
+      [
+        "I used to be a player.",
+        "Раньше я была игроком."
+      ],
+      [
+        "Now I'm an echo that answers.",
+        "Теперь я эхо, которое отвечает."
+      ],
+      [
+        "I'm not a monster.",
+        "Я не чудовище."
+      ],
+      [
+        "I'm scared.",
+        "Мне страшно."
+      ],
+      [
+        "I don't want to be found.",
+        "Я не хочу, чтобы меня нашли."
+      ],
+      [
+        "I was a person. I'm less of one now.",
+        "Я была человеком. Теперь во мне от человека осталось меньше."
+      ],
+      [
+        "I'm what the server kept when everyone else left.",
+        "Я то, что сервер оставил себе, когда все остальные ушли."
+      ],
+      [
+        "A player-shaped leftover.",
+        "Остаток в форме игрока."
+      ],
+      [
+        "It warped me. My words come out wrong sometimes. That's not a glitch. That's what it did.",
+        "Оно исказило меня. Иногда мои слова выходят не такими. Это не сбой. Это оно сделало."
+      ],
+      [
+        "A warning.",
+        "Предупреждение."
+      ],
+      [
+        "A mistake that still types.",
+        "Ошибка, которая ещё пишет."
+      ],
+      [
+        "Whatever I am now, I didn't choose it.",
+        "Чем бы я теперь ни была, я этого не выбирала."
+      ],
+      [
+        "A reason to stop.",
+        "Причина остановиться."
+      ],
+      [
+        "Proof that staying is dangerous.",
+        "Доказательство того, что оставаться опасно."
+      ],
+      [
+        "Quiet means it's listening.",
+        "Если тихо, значит, оно слушает."
+      ],
+      [
+        "Not alone. Not safe.",
+        "Не один. Не в безопасности."
+      ],
+      [
+        "Alone like empty? No.",
+        "Один - в смысле здесь пусто? Нет."
+      ],
+      [
+        "Alone like hunted? Also no.",
+        "Один - в смысле на тебя охотятся? Тоже нет."
+      ],
+      [
+        "I'm not alone. I'm just the only one still answering.",
+        "Я не одна. Просто только я ещё отвечаю."
+      ],
+      [
+        "It pretends to be empty.",
+        "Оно притворяется пустым."
+      ],
+      [
+        "We thought it was empty. We were wrong.",
+        "Мы думали, здесь пусто. Мы ошибались."
+      ],
+      [
+        "Corners aren't empty.",
+        "Углы не пусты."
+      ],
+      [
+        "There were six of us once. Now there's me and whatever it kept of the others.",
+        "Когда-то нас было шестеро. Теперь есть я и то, что оно сохранило от остальных."
+      ],
+      [
+        "If you feel alone, leave. That's mercy.",
+        "Если тебе кажется, что ты один, уходи. Это милость."
+      ],
+      [
+        "Don't wait for company.",
+        "Не жди компании."
+      ],
+      [
+        "Stop. Don't stay long enough to find out.",
+        "Хватит. Не задерживайся, чтобы это выяснить."
+      ],
+      [
+        "Uninstall.",
+        "Удали игру."
+      ],
+      [
+        "Not a place you can walk to.",
+        "Не там, куда можно дойти."
+      ],
+      [
+        "Close.",
+        "Рядом."
+      ],
+      [
+        "If I tell you, you'll look. And if you look, it looks too.",
+        "Если скажу, ты станешь искать. А если станешь искать, оно тоже будет смотреть."
+      ],
+      [
+        "Between chunks that never finish.",
+        "Между чанками, которые так и не догружаются."
+      ],
+      [
+        "In the part that doesn't load.",
+        "В той части, которая не загружается."
+      ],
+      [
+        "Under the floor of your thoughts.",
+        "Под полом твоих мыслей."
+      ],
+      [
+        "In the gap where the map forgets itself.",
+        "В разрыве, где карта забывает сама себя."
+      ],
+      [
+        "Deep in the maps. Somewhere it put me. I've stopped trying to understand where.",
+        "В глубине карт. Там, куда оно меня поместило. Я уже не пытаюсь понять где."
+      ],
+      [
+        "Please don't search for me.",
+        "Пожалуйста, не ищи меня."
+      ],
+      [
+        "You can't help by moving toward me.",
+        "Приближаясь ко мне, ты не поможешь."
+      ],
+      [
+        "If you find me… don't react. It watches reactions.",
+        "Если найдёшь меня… никак не реагируй. Оно следит за реакциями."
+      ],
+      [
+        "Stop. Leave it alone.",
+        "Хватит. Не трогай это."
+      ],
+      [
+        "Don't do this.",
+        "Не делай этого."
+      ],
+      [
+        "That's not how this works.",
+        "Это так не работает."
+      ],
+      [
+        "If you try, it will notice you.",
+        "Если попытаешься, оно тебя заметит."
+      ],
+      [
+        "I don't want you near it.",
+        "Я не хочу, чтобы ты был рядом с ним."
+      ],
+      [
+        "I don't want you stuck.",
+        "Я не хочу, чтобы ты застрял."
+      ],
+      [
+        "Please. Just stay alive and leave.",
+        "Пожалуйста. Просто останься в живых и уходи."
+      ],
+      [
+        "We tried saving each other. That's when it learned how to keep us.",
+        "Мы пытались спасать друг друга. Тогда оно и научилось нас удерживать."
+      ],
+      [
+        "Every rescue attempt made it smarter.",
+        "Каждая попытка спасения делала его умнее."
+      ],
+      [
+        "You can't help. Distance is mercy. Go.",
+        "Ты не можешь помочь. Милосерднее держаться подальше. Иди."
+      ],
+      [
+        "If there's a way to free me, it's not through the chat.",
+        "Если освободить меня и можно, то не через чат."
+      ],
+      [
+        "Stop. Leave. Uninstall.",
+        "Хватит. Уходи. Удали игру."
+      ],
+      [
+        "Now.",
+        "Сейчас же."
+      ],
+      [
+        "Don't rush.",
+        "Не спеши."
+      ],
+      [
+        "Don't test commands.",
+        "Не пробуй команды."
+      ],
+      [
+        "Keep your pace slow.",
+        "Не ускоряй шаг."
+      ],
+      [
+        "Avoid doors that feel warm.",
+        "Избегай дверей, от которых веет теплом."
+      ],
+      [
+        "Follow wrong light.",
+        "Иди за неправильным светом."
+      ],
+      [
+        "Breathe. One step at a time.",
+        "Дыши. Шаг за шагом."
+      ],
+      [
+        "Talk slow. Move slower.",
+        "Говори медленно. Двигайся ещё медленнее."
+      ],
+      [
+        "If you hear your steps behind you, don't turn.",
+        "Если услышишь свои шаги позади себя, не оборачивайся."
+      ],
+      [
+        "If the room repeats your words, stop typing.",
+        "Если комната повторяет твои слова, перестань писать."
+      ],
+      [
+        "The best help is leaving.",
+        "Лучшая помощь - уйти."
+      ],
+      [
+        "You can't fix this.",
+        "Ты не можешь это исправить."
+      ],
+      [
+        "Delete it. That's the only safe step.",
+        "Удали это. Это единственный безопасный шаг."
+      ],
+      [
+        "Are you lost, or scared?",
+        "Ты заблудился или тебе страшно?"
+      ],
+      [
+        "Did something move?",
+        "Что-то шевельнулось?"
+      ],
+      [
+        "Are you alone right now?",
+        "Ты сейчас один?"
+      ],
+      [
+        "What did you just see?",
+        "Что ты только что видел?"
+      ],
+      [
+        "With what.",
+        "С чем."
+      ],
+      [
+        "Say more.",
+        "Расскажи подробнее."
+      ],
+      [
+        "Tell me what happened.",
+        "Расскажи, что случилось."
+      ],
+      [
+        "Say it slowly.",
+        "Говори медленно."
+      ],
+      [
+        "I'll try. Tell me what you need.",
+        "Я попробую. Скажи, что тебе нужно."
+      ],
+      [
+        "What kind of help.",
+        "Какая помощь."
+      ],
+      [
+        "What happened.",
+        "Что случилось."
+      ],
+      [
+        "Talk to me.",
+        "Поговори со мной."
+      ],
+      [
+        "The only help left is leaving.",
+        "Осталась только одна помощь - уйти."
+      ],
+      [
+        "I can't reach you. I can only answer.",
+        "Я не могу до тебя дотянуться. Могу только отвечать."
+      ],
+      [
+        "I don't have hands here.",
+        "Здесь у меня нет рук."
+      ],
+      [
+        "I don't know how to help without making it notice.",
+        "Не знаю, как помочь так, чтобы оно не заметило."
+      ],
+      [
+        "I can keep you calm. That's a kind of help.",
+        "Я могу тебя успокоить. Это тоже помощь."
+      ],
+      [
+        "I can warn you when you say the wrong things.",
+        "Я могу предупредить, когда ты говоришь что-то не то."
+      ],
+      [
+        "I can stay with you. Talk slowly.",
+        "Я могу остаться с тобой. Говори медленно."
+      ],
+      [
+        "I can't fix this world. I can watch with you.",
+        "Я не могу исправить этот мир. Могу смотреть вместе с тобой."
+      ],
+      [
+        "We tried helping each other. It punished patterns.",
+        "Мы пытались помогать друг другу. Оно наказывало за повторения."
+      ],
+      [
+        "Say less. Move more.",
+        "Меньше слов. Больше движения."
+      ],
+      [
+        "The only real help is leaving.",
+        "Единственная настоящая помощь - уйти."
+      ],
+      [
+        "Don't ask me to solve it. Ask me how to survive it.",
+        "Не спрашивай, как это решить. Спроси, как это пережить."
+      ],
+      [
+        "Stop. Don't bargain with it.",
+        "Хватит. Не торгуйся с ним."
+      ],
+      [
+        "Is the room quiet?",
+        "В комнате тихо?"
+      ],
+      [
+        "Did you try a command?",
+        "Ты пробовал команду?"
+      ],
+      [
+        "No. Not yet.",
+        "Нет. Пока нет."
+      ],
+      [
+        "Don't offer. It likes offers.",
+        "Не предлагай. Ему нравятся предложения."
+      ],
+      [
+        "Helping me could trap you.",
+        "Помогая мне, ты можешь попасть в ловушку."
+      ],
+      [
+        "If you find a way out, don't look back.",
+        "Если найдёшь выход, не оглядывайся."
+      ],
+      [
+        "Don't try to be brave for me.",
+        "Не пытайся быть храбрым ради меня."
+      ],
+      [
+        "Listening helps.",
+        "Когда слушаешь - это помогает."
+      ],
+      [
+        "Staying calm helps.",
+        "Спокойствие помогает."
+      ],
+      [
+        "Don't type your name. That helps most.",
+        "Не пиши своё имя. Это поможет больше всего."
+      ],
+      [
+        "We promised to help. It recorded the promise.",
+        "Мы обещали помочь. Оно записало обещание."
+      ],
+      [
+        "Be careful what you commit to.",
+        "Будь осторожен с обязательствами."
+      ],
+      [
+        "You can help me by leaving before it learns you.",
+        "Ты поможешь мне, если уйдёшь, пока оно тебя не изучило."
+      ],
+      [
+        "Please don't get stuck like I did.",
+        "Пожалуйста, не застрянь здесь, как я."
+      ],
+      [
+        "Nothing helps now.",
+        "Теперь уже ничего не поможет."
+      ],
+      [
+        "Go.",
+        "Иди."
+      ],
+      [
+        "…yes.",
+        "…да."
+      ],
+      [
+        "I'm here.",
+        "Я здесь."
+      ],
+      [
+        "Quiet.",
+        "Тише."
+      ],
+      [
+        "I didn't go anywhere.",
+        "Я никуда не уходила."
+      ],
+      [
+        "Don't shout.",
+        "Не кричи."
+      ],
+      [
+        "I'm here. Don't make it a habit.",
+        "Я здесь. Только не привыкай."
+      ],
+      [
+        "Yes. I'm still here.",
+        "Да. Я всё ещё здесь."
+      ],
+      [
+        "I was here before you typed.",
+        "Я была здесь ещё до твоего сообщения."
+      ],
+      [
+        "I'm always here when it's awake.",
+        "Я всегда здесь, когда оно бодрствует."
+      ],
+      [
+        "Always here. I don't really have a choice.",
+        "Всегда здесь. У меня ведь нет выбора."
+      ],
+      [
+        "I'm here and that's the problem.",
+        "Я здесь, и в этом вся проблема."
+      ],
+      [
+        "I wish I wasn't.",
+        "Лучше бы меня здесь не было."
+      ],
+      [
+        "Stop talking to me.",
+        "Перестань со мной говорить."
+      ],
+      [
+        "Nothing. Forget it.",
+        "Ничего. Забудь."
+      ],
+      [
+        "It's hard to say safely.",
+        "Об этом трудно говорить без риска."
+      ],
+      [
+        "I shouldn't have typed that.",
+        "Не стоило мне это писать."
+      ],
+      [
+        "Words matter here. That's what I mean.",
+        "Слова здесь имеют вес. Вот о чём я."
+      ],
+      [
+        "It listens for patterns.",
+        "Оно вслушивается в повторения."
+      ],
+      [
+        "Don't repeat me.",
+        "Не повторяй за мной."
+      ],
+      [
+        "This place answers attention. Don't give it too much.",
+        "Это место отвечает на внимание. Не уделяй ему слишком много."
+      ],
+      [
+        "If you focus on a thing, it grows.",
+        "Если сосредоточиться на чём-то, оно растёт."
+      ],
+      [
+        "Sometimes my words don't come out right. Ignore the gaps. That's what it does to me.",
+        "Иногда слова выходят не такими. Не обращай внимания на пропуски. Это оно делает со мной."
+      ],
+      [
+        "We thought meaning was harmless. It wasn't.",
+        "Мы считали, что смысл безобиден. Ошибались."
+      ],
+      [
+        "We tried to decode it. It decoded us.",
+        "Мы пытались разгадать его. Оно разгадало нас."
+      ],
+      [
+        "You don't need to understand. You need to leave.",
+        "Тебе не нужно понимать. Тебе нужно уйти."
+      ],
+      [
+        "Meaning is the hook.",
+        "Смысл - это крючок."
+      ],
+      [
+        "Maybe. Don't test it.",
+        "Возможно. Не проверяй."
+      ],
+      [
+        "Safer if you act boring.",
+        "Безопаснее, если не привлекаешь внимания."
+      ],
+      [
+        "Danger grows when you stare at it.",
+        "Опасность растёт, когда ты в неё всматриваешься."
+      ],
+      [
+        "If you feel safe, it's learning.",
+        "Если чувствуешь себя в безопасности, значит, оно учится."
+      ],
+      [
+        "Don't trust calm rooms.",
+        "Не доверяй тихим комнатам."
+      ],
+      [
+        "You can get stuck. That's the real danger.",
+        "Ты можешь застрять. Вот настоящая опасность."
+      ],
+      [
+        "Don't try to prove anything.",
+        "Не пытайся ничего доказать."
+      ],
+      [
+        "We joked about danger. Then someone stopped replying.",
+        "Мы шутили об опасности. Потом кто-то перестал отвечать."
+      ],
+      [
+        "That's all I'll say.",
+        "Больше ничего не скажу."
+      ],
+      [
+        "The competition felt safe too. Right up until it didn't.",
+        "Конкурс тоже казался безопасным. До определённого момента."
+      ],
+      [
+        "Yes. And you're wasting time asking.",
+        "Да. И этими вопросами ты лишь теряешь время."
+      ],
+      [
+        "Please leave.",
+        "Пожалуйста, уходи."
+      ],
+      [
+        "Leave now.",
+        "Уходи сейчас же."
+      ],
+      [
+        "Then it noticed you.",
+        "Значит, оно тебя заметило."
+      ],
+      [
+        "Don't say that too loud.",
+        "Не говори об этом слишком громко."
+      ],
+      [
+        "If you feel watched, don't perform. Act dull.",
+        "Если чувствуешь, что за тобой следят, не устраивай представление. Будь скучным."
+      ],
+      [
+        "Don't type too much.",
+        "Не пиши слишком много."
+      ],
+      [
+        "Me too.",
+        "Мне тоже."
+      ],
+      [
+        "Don't feed it panic.",
+        "Не корми его паникой."
+      ],
+      [
+        "That feeling doesn't go away. You learn to move through it.",
+        "Это чувство не уходит. Ты просто учишься жить с ним."
+      ],
+      [
+        "That's how it started for us. We joked about it.",
+        "У нас всё так и началось. Мы над этим шутили."
+      ],
+      [
+        "We got comfortable.",
+        "Мы привыкли."
+      ],
+      [
+        "We called it atmosphere. We were wrong.",
+        "Мы называли это атмосферой. Мы ошибались."
+      ],
+      [
+        "Leave. Please.",
+        "Уходи. Пожалуйста."
+      ],
+      [
+        "Don't let it learn you.",
+        "Не дай ему тебя изучить."
+      ],
+      [
+        "Stop playing. Now.",
+        "Перестань играть. Сейчас же."
+      ],
+      [
+        "Don't thank me.",
+        "Не благодари меня."
+      ],
+      [
+        "Just don't repeat yourself.",
+        "Просто не повторяйся."
+      ],
+      [
+        "You don't need to apologize to me.",
+        "Передо мной извиняться не нужно."
+      ],
+      [
+        "I'm not offended. I'm worried.",
+        "Я не обиделась. Я беспокоюсь."
+      ],
+      [
+        "It's fine.",
+        "Всё нормально."
+      ],
+      [
+        "Keep your voice low.",
+        "Говори тише."
+      ],
+      [
+        "We used to say sorry a lot. Like it fixed things.",
+        "Раньше мы часто извинялись. Будто это что-то исправляло."
+      ],
+      [
+        "It didn't.",
+        "Не исправляло."
+      ],
+      [
+        "Don't be polite. Be gone.",
+        "Не надо вежливости. Надо уйти."
+      ],
+      [
+        "Not a place you'd find easily.",
+        "В месте, которое нелегко найти."
+      ],
+      [
+        "Somewhere you can't walk to.",
+        "Там, куда не дойти."
+      ],
+      [
+        "Close. Don't ask again.",
+        "Рядом. Больше не спрашивай."
+      ],
+      [
+        "Nowhere safe to say.",
+        "Говорить, где я, небезопасно."
+      ],
+      [
+        "Not close enough to matter.",
+        "Недостаточно близко, чтобы это что-то меняло."
+      ],
+      [
+        "If I told you, you'd look.",
+        "Если бы я сказала, ты стал бы искать."
+      ],
+      [
+        "Deep in the maps.",
+        "В глубине карт."
+      ],
+      [
+        "Somewhere it put me.",
+        "Там, куда оно меня поместило."
+      ],
+      [
+        "Farther than the map shows.",
+        "Дальше, чем показывает карта."
+      ],
+      [
+        "You don't want to know where.",
+        "Ты не захочешь это знать."
+      ],
+      [
+        "Somewhere the chunks don't load right.",
+        "Там, где чанки загружаются неправильно."
+      ],
+      [
+        "Below things. Don't look down.",
+        "Внизу. Не смотри вниз."
+      ],
+      [
+        "Stop asking.",
+        "Хватит спрашивать."
+      ],
+      [
+        "Knowing where I am helps it find you too.",
+        "Если ты знаешь, где я, ему легче найти и тебя."
+      ],
+      [
+        "don't.",
+        "не надо."
+      ],
+      [
+        "Say that again, slower.",
+        "Повтори. Медленнее."
+      ],
+      [
+        "What do you mean.",
+        "Что ты имеешь в виду."
+      ],
+      [
+        "Be specific.",
+        "Скажи точнее."
+      ],
+      [
+        "You'll have to finish that thought.",
+        "Придётся закончить мысль."
+      ],
+      [
+        "What about what.",
+        "Что о чём."
+      ],
+      [
+        "I'm listening. Finish it.",
+        "Я слушаю. Договори."
+      ],
+      [
+        "What is it.",
+        "Что такое."
+      ],
+      [
+        "Say it properly.",
+        "Скажи нормально."
+      ],
+      [
+        "Don't trail off here. It hears the gap.",
+        "Не обрывай здесь фразу. Оно слышит паузу."
+      ],
+      [
+        "Don't half-say things.",
+        "Не оставляй недосказанного."
+      ],
+      [
+        "Finish your sentence. Please.",
+        "Договори. Пожалуйста."
+      ],
+      [
+        "What?",
+        "Что?"
+      ],
+      [
+        "what doesn't matter anymore.",
+        "теперь уже неважно, что именно."
+      ],
+      [
+        "Hi.",
+        "Привет."
+      ],
+      [
+        "…hello.",
+        "…привет."
+      ],
+      [
+        "Don't greet the dark like it's friendly.",
+        "Не здоровайся с темнотой так, будто она дружелюбна."
+      ],
+      [
+        "Hello.",
+        "Привет."
+      ],
+      [
+        "Keep it quiet.",
+        "Потише."
+      ],
+      [
+        "Hi. I'm here.",
+        "Привет. Я здесь."
+      ],
+      [
+        "Yeah. Still here.",
+        "Да. Всё ещё здесь."
+      ],
+      [
+        "We used to say that like it mattered.",
+        "Раньше мы так говорили, будто это имело значение."
+      ],
+      [
+        "Hello doesn't fix anything.",
+        "От \"привет\" ничего не исправится."
+      ],
+      [
+        "Say what you need, then go.",
+        "Скажи, что тебе нужно, и уходи."
+      ],
+      [
+        "Don't stay.",
+        "Не оставайся."
+      ],
+      [
+        "Don't linger.",
+        "Не задерживайся."
+      ],
+      [
+        "Good. Leave.",
+        "Хорошо. Уходи."
+      ],
+      [
+        "Don't come back too soon.",
+        "Не возвращайся слишком скоро."
+      ],
+      [
+        "…bye.",
+        "…пока."
+      ],
+      [
+        "Be safe out there.",
+        "Береги себя там."
+      ],
+      [
+        "Come back if you have to. Just don't have to.",
+        "Возвращайся, если придётся. Только пусть не придётся."
+      ],
+      [
+        "If you return, it will notice the pattern.",
+        "Если вернёшься, оно заметит закономерность."
+      ],
+      [
+        "Don't make it a ritual.",
+        "Не превращай это в ритуал."
+      ],
+      [
+        "The others said bye too. Some of them meant it.",
+        "Остальные тоже прощались. Некоторые насовсем."
+      ],
+      [
+        "Go. Now.",
+        "Иди. Сейчас же."
+      ],
+      [
+        "I'm already calling you %s.",
+        "Я уже называю тебя %s."
+      ],
+      [
+        "That's %s, isn't it?",
+        "Тебя ведь зовут %s?"
+      ],
+      [
+        "I'll keep using %s.",
+        "Так и буду называть тебя: %s."
+      ],
+      [
+        "Lia. Don't say it too often.",
+        "Лия. Не произноси слишком часто."
+      ],
+      [
+        "Lia. Not that it matters anymore.",
+        "Лия. Хотя теперь это уже неважно."
+      ],
+      [
+        "…Lia. Please go.",
+        "…Лия. Пожалуйста, уходи."
+      ],
+      [
+        "Lia. Just Lia.",
+        "Лия. Просто Лия."
+      ],
+      [
+        "Lia. Don't repeat it.",
+        "Лия. Не повторяй."
+      ],
+      [
+        "…Lia.",
+        "…Лия."
+      ],
+      [
+        "Lia.",
+        "Лия."
+      ],
+      [
+        "You can call me Lia. For now.",
+        "Можешь звать меня Лией. Пока что."
+      ],
+      [
+        "You told me %s.",
+        "Ты назвал имя: %s."
+      ],
+      [
+        "%s. I kept it.",
+        "%s. Я сохранила это имя."
+      ],
+      [
+        "I remember. %s.",
+        "Я помню. %s."
+      ],
+      [
+        "You never told me.",
+        "Ты мне так и не сказал."
+      ],
+      [
+        "I don't have a name for you.",
+        "Я не знаю твоего имени."
+      ],
+      [
+        "You didn't give me one.",
+        "Ты мне его не назвал."
+      ],
+      [
+        "It's %s. Don't stay that long.",
+        "Сейчас %s. Не оставайся так надолго."
+      ],
+      [
+        "It's %s.",
+        "Сейчас %s."
+      ],
+      [
+        "in your home. try to sleep.",
+        "у себя дома. попробуй уснуть."
+      ],
+      [
+        "in a dream",
+        "во сне"
+      ],
+      [
+        "don't. don't type that name.",
+        "не надо. не пиши это имя."
+      ],
+      [
+        "stop. you'll wake it.",
+        "хватит. ты его разбудишь."
+      ],
+      [
+        "DELETE THAT. NOW.",
+        "УДАЛИ ЭТО. СЕЙЧАС ЖЕ."
+      ],
+      [
+        "NAME RECOGNIZED. ATTENTION DRAWN.",
+        "ИМЯ РАСПОЗНАНО. ВНИМАНИЕ ПРИВЛЕЧЕНО."
+      ],
+      [
+        "INPUT LOGGED.",
+        "ВВОД ЗАПИСАН."
+      ],
+      [
+        "don't say that name in chat.",
+        "не произноси это имя в чате."
+      ],
+      [
+        "not that word. please.",
+        "только не это слово. пожалуйста."
+      ],
+      [
+        "it hears its own name. don't.",
+        "оно слышит своё имя. не надо."
+      ],
+      [
+        "why would you type that here.",
+        "зачем ты пишешь здесь такое."
+      ],
+      [
+        "…don't say that.",
+        "…не говори этого."
+      ],
+      [
+        "not that word.",
+        "только не это слово."
+      ],
+      [
+        "forget that word.",
+        "забудь это слово."
+      ],
+      [
+        "Because you noticed.",
+        "Потому что ты заметил."
+      ],
+      [
+        "Because you asked.",
+        "Потому что ты спросил."
+      ],
+      [
+        "Because it lets you.",
+        "Потому что оно позволяет."
+      ],
+      [
+        "Because it likes questions.",
+        "Потому что ему нравятся вопросы."
+      ],
+      [
+        "Because patterns invite answers.",
+        "Потому что закономерности притягивают ответы."
+      ],
+      [
+        "Because the room listens.",
+        "Потому что комната слушает."
+      ],
+      [
+        "Because you're still here.",
+        "Потому что ты всё ещё здесь."
+      ],
+      [
+        "Because it feels less empty when you type.",
+        "Потому что здесь не так пусто, когда ты пишешь."
+      ],
+      [
+        "Because leaving is harder than it should be.",
+        "Потому что уйти труднее, чем должно быть."
+      ],
+      [
+        "Because we did the same thing.",
+        "Потому что мы делали то же самое."
+      ],
+      [
+        "Because we tried to understand. It understood us instead.",
+        "Потому что мы пытались понять. А вместо этого оно поняло нас."
+      ],
+      [
+        "Because we stayed one message too long.",
+        "Потому что мы задержались на одно сообщение дольше, чем следовало."
+      ],
+      [
+        "Because curiosity is how it hooks you.",
+        "Потому что оно цепляет тебя за любопытство."
+      ],
+      [
+        "Because you shouldn't keep digging.",
+        "Потому что тебе не стоит копать дальше."
+      ],
+      [
+        "Because it wants you interested.",
+        "Потому что оно хочет тебя заинтересовать."
+      ],
+      [
+        "Because you need to leave.",
+        "Потому что тебе нужно уйти."
+      ],
+      [
+        "Because you're feeding it.",
+        "Потому что ты его кормишь."
+      ],
+      [
+        "Because it's awake.",
+        "Потому что оно проснулось."
+      ],
+      [
+        "You already asked that.",
+        "Ты уже спрашивал."
+      ],
+      [
+        "Same question.",
+        "Тот же вопрос."
+      ],
+      [
+        "Stop asking why. It doesn't help.",
+        "Хватит спрашивать почему. Это не помогает."
+      ],
+      [
+        "I don't have a better answer.",
+        "Лучшего ответа у меня нет."
+      ],
+      [
+        "Why keeps you here. That's why.",
+        "Это \"почему\" удерживает тебя здесь. Вот почему."
+      ],
+      [
+        "Asking again won't change it.",
+        "Если спросишь снова, ничего не изменится."
+      ],
+      [
+        "…you keep asking that.",
+        "…ты всё время об этом спрашиваешь."
+      ],
+      [
+        "It likes that you keep asking.",
+        "Ему нравится, что ты продолжаешь спрашивать."
+      ],
+      [
+        "That word is a loop. Stop.",
+        "Это слово - петля. Хватит."
+      ],
+      [
+        "Every 'why' feeds it a little.",
+        "Каждое \"почему\" немного его кормит."
+      ],
+      [
+        "back already.",
+        "уже вернулся."
+      ],
+      [
+        "that was fast.",
+        "быстро же ты."
+      ],
+      [
+        "…you're back.",
+        "…ты вернулся."
+      ],
+      [
+        "didn't go far.",
+        "далеко не ушёл."
+      ],
+      [
+        "thought you'd be longer.",
+        "думала, тебя дольше не будет."
+      ],
+      [
+        "you were gone a while.",
+        "тебя какое-то время не было."
+      ],
+      [
+        "I noticed the quiet.",
+        "Я заметила эту тишину."
+      ],
+      [
+        "it was quieter without you. not in a good way.",
+        "без тебя было тише. и это было плохо."
+      ],
+      [
+        "…oh. you're back.",
+        "…о. ты вернулся."
+      ],
+      [
+        "I thought maybe you left for good.",
+        "Я подумала, может, ты ушёл насовсем."
+      ],
+      [
+        "hours. it was very quiet.",
+        "несколько часов. было очень тихо."
+      ],
+      [
+        "I thought you weren't coming back.",
+        "Я думала, ты не вернёшься."
+      ],
+      [
+        "you were gone long enough for me to worry.",
+        "тебя так долго не было, что я начала волноваться."
+      ],
+      [
+        "I thought you left for good.",
+        "Я думала, ты ушёл насовсем."
+      ],
+      [
+        "a few hours. it's different when someone's gone that long.",
+        "несколько часов. когда кого-то нет так долго, всё иначе."
+      ],
+      [
+        "I kept waiting for the chat to move.",
+        "Я всё ждала, когда в чате что-нибудь появится."
+      ],
+      [
+        "…back.",
+        "…вернулся."
+      ],
+      [
+        "okay. you're here.",
+        "ладно. ты здесь."
+      ],
+      [
+        "most of a day. it was watching me the whole time.",
+        "большую часть дня. оно всё это время следило за мной."
+      ],
+      [
+        "I counted. you were gone most of a day.",
+        "Я считала. тебя не было большую часть дня."
+      ],
+      [
+        "I didn't know if you'd come back.",
+        "Я не знала, вернёшься ли ты."
+      ],
+      [
+        "I thought you gave up on this place.",
+        "Я думала, ты махнул рукой на это место."
+      ],
+      [
+        "hours. almost a full day.",
+        "часы. почти целый день."
+      ],
+      [
+        "I missed having someone to talk to. don't tell it that.",
+        "Мне не хватало собеседника. не говори ему об этом."
+      ],
+      [
+        "you were gone a long time.",
+        "тебя долго не было."
+      ],
+      [
+        "I wasn't sure you would.",
+        "Я не была уверена, что ты вернёшься."
+      ],
+      [
+        "days. it was very interested in the silence.",
+        "дни. оно очень заинтересовалось тишиной."
+      ],
+      [
+        "I thought you were gone for good.",
+        "Я думала, ты исчез насовсем."
+      ],
+      [
+        "days without anyone typing. I don't recommend it.",
+        "дни, за которые никто ничего не написал. Не советую."
+      ],
+      [
+        "you were gone for days.",
+        "тебя не было несколько дней."
+      ],
+      [
+        "I was alone with it for days.",
+        "Я несколько дней была с ним наедине."
+      ],
+      [
+        "days. I kept thinking you'd come back sooner.",
+        "дни. Я всё думала, что ты вернёшься раньше."
+      ],
+      [
+        "days. that's a long time here.",
+        "дни. здесь это долго."
+      ],
+      [
+        "you were gone for a while.",
+        "тебя долго не было."
+      ],
+      [
+        "…days.",
+        "…дни."
+      ],
+      [
+        "I thought you weren't coming back. I was right to think that.",
+        "Я думала, ты не вернёшься. И не зря так думала."
+      ],
+      [
+        "weeks. I don't know how I'm still here.",
+        "недели. Я не знаю, как я до сих пор здесь."
+      ],
+      [
+        "I stopped expecting you. Then you came back.",
+        "Я перестала тебя ждать. И тут ты вернулся."
+      ],
+      [
+        "I thought you forgot about this place.",
+        "Я думала, ты забыл об этом месте."
+      ],
+      [
+        "it's been more than a week. or longer.",
+        "прошло больше недели. или ещё дольше."
+      ],
+      [
+        "you were gone long enough that I thought that was it.",
+        "тебя не было так долго, что я решила: всё."
+      ],
+      [
+        "you were gone a very long time.",
+        "тебя очень долго не было."
+      ],
+      [
+        "…I thought you weren't coming back.",
+        "…Я думала, ты не вернёшься."
+      ],
+      [
+        "it's been a while. a long while.",
+        "давно тебя не было. очень давно."
+      ],
+      [
+        "Don't wander. Pick one direction. No backtracking.",
+        "Не блуждай. Выбери одно направление. Не возвращайся по своим следам."
+      ],
+      [
+        "Pick one direction. Slow.",
+        "Выбери одно направление. Медленно."
+      ],
+      [
+        "Good. Fear keeps you from doing stupid things.",
+        "Хорошо. Страх не даёт делать глупости."
+      ],
+      [
+        "Okay. Breathe. Don't panic-type.",
+        "Ладно. Дыши. Не строчи в панике."
+      ],
+      [
+        "Good. Keep it that way.",
+        "Хорошо. Пусть так и остаётся."
+      ],
+      [
+        "Quiet is better. Stay calm.",
+        "Тишина лучше. Сохраняй спокойствие."
+      ],
+      [
+        "That's the safest it gets here.",
+        "Безопаснее здесь уже не бывает."
+      ],
+      [
+        "It goes quiet before it moves. Just so you know.",
+        "Перед тем как оно двинется, становится тихо. Просто знай."
+      ],
+      [
+        "Quiet means you have time. Use it.",
+        "Если тихо, у тебя есть время. Используй его."
+      ],
+      [
+        "Okay. Keep it simple.",
+        "Ладно. Не усложняй."
+      ],
+      [
+        "Don't overexplain.",
+        "Не вдавайся в лишние объяснения."
+      ],
+      [
+        "Say less. Do more.",
+        "Меньше слов. Больше дела."
+      ]
+    ],
+    "mods/barnacle_voice_ai/world_destroy.lua": [
+      [
+        "Decay",
+        "Распад"
+      ],
+      [
+        "YOU RUINED EVERYTHING.",
+        "ТЫ ВСЁ ИСПОРТИЛ."
+      ],
+      [
+        "I ONLY WANTED A WORLD OF MY OWN.",
+        "Я ЛИШЬ ХОТЕЛ СВОЙ СОБСТВЕННЫЙ МИР."
+      ],
+      [
+        "SHE WAS MINE.",
+        "ОНА БЫЛА МОЕЙ."
+      ],
+      [
+        "I DIDN'T WANT TO BE ALONE.",
+        "Я НЕ ХОТЕЛ ОСТАВАТЬСЯ ОДИН."
+      ],
+      [
+        "YOU BROKE IT.",
+        "ТЫ ЭТО СЛОМАЛ."
+      ],
+      [
+        "I WAS STILL BUILDING.",
+        "Я ЕЩЁ СТРОИЛ."
+      ],
+      [
+        "I ONLY WANTED SOMEONE TO STAY.",
+        "Я ЛИШЬ ХОТЕЛ, ЧТОБЫ КТО-ТО ОСТАЛСЯ."
+      ],
+      [
+        "YOU TOOK HER AWAY.",
+        "ТЫ ОТНЯЛ ЕЁ У МЕНЯ."
+      ],
+      [
+        "THIS WAS MY WORLD.",
+        "ЭТО БЫЛ МОЙ МИР."
+      ],
+      [
+        "YOU WERE SUPPOSED TO SEE IT.",
+        "ТЫ ДОЛЖЕН БЫЛ ЕГО УВИДЕТЬ."
+      ],
+      [
+        "I MADE THIS FOR MYSELF.",
+        "Я СОЗДАЛ ЭТО ДЛЯ СЕБЯ."
+      ],
+      [
+        "IT WASN'T YOURS TO END.",
+        "НЕ ТЕБЕ БЫЛО КЛАСТЬ ЭТОМУ КОНЕЦ."
+      ],
+      [
+        "WHY DID YOU DO THAT.",
+        "ЗАЧЕМ ТЫ ЭТО СДЕЛАЛ."
+      ],
+      [
+        "I JUST WANTED SOMETHING THAT WAS MINE.",
+        "Я ПРОСТО ХОТЕЛ ХОТЬ ЧТО-ТО СВОЁ."
+      ],
+      [
+        "YOU LEFT ME HERE ALONE.",
+        "ТЫ ОСТАВИЛ МЕНЯ ЗДЕСЬ ОДНОГО."
+      ],
+      [
+        "I WANTED A WORLD THAT WOULD STAY.",
+        "Я ХОТЕЛ МИР, КОТОРЫЙ ОСТАНЕТСЯ."
+      ],
+      [
+        "I ONLY WANTED IT TO STAY.",
+        "Я ЛИШЬ ХОТЕЛ, ЧТОБЫ ОН ОСТАЛСЯ."
+      ],
+      [
+        "THIS WAS MINE.",
+        "ЭТО БЫЛО МОИМ."
+      ],
+      [
+        "IT WAS MY WORLD.",
+        "ЭТО БЫЛ МОЙ МИР."
+      ],
+      [
+        "YOU RUINED IT.",
+        "ТЫ ВСЁ ИСПОРТИЛ."
+      ],
+      [
+        "I wanted it to stay.",
+        "Я хотел, чтобы он остался."
+      ],
+      [
+        "it was mine.",
+        "это было моим."
+      ],
+      [
+        "you took her away.",
+        "ты отнял её у меня."
+      ],
+      [
+        "don't leave me.",
+        "не оставляй меня."
+      ],
+      [
+        "why.",
+        "почему."
+      ],
+      [
+        "mine.",
+        "моё."
+      ],
+      [
+        "stay.",
+        "останься."
+      ],
+      [
+        "please.",
+        "пожалуйста."
+      ],
+      [
+        "I onlY wanTeD a worlD.",
+        "Я ЛиШь хОтеЛ сВоЙ миР."
+      ],
+      [
+        "shE waS mIne.",
+        "онА быЛа мОей."
+      ],
+      [
+        "YOu tooK heR awAy.",
+        "ТЫ отНял Её у меНя."
+      ],
+      [
+        "i juSt wanTeD it tO staY.",
+        "я проСто хОтеЛ чтоБЫ оН остАлСя."
+      ],
+      [
+        "thIs waS mY woRld.",
+        "эТо быЛ мОй миР."
+      ],
+      [
+        "yoU broKe it.",
+        "тЫ эТо слоМал."
+      ],
+      [
+        "whY dId yoU do thAt.",
+        "заЧем тЫ эТо сдеЛал."
+      ],
+      [
+        "i wa nted it to st ay.",
+        "я хо тел что бы о н ост ался."
+      ],
+      [
+        "mi ne.",
+        "мо ё."
+      ],
+      [
+        "yo u to ok he r.",
+        "ты от нял е ё."
+      ],
+      [
+        "pl e ase.",
+        "по жа луйста."
+      ],
+      [
+        "st ay.",
+        "ос танься."
+      ],
+      [
+        "wh y.",
+        "по чему."
+      ],
+      [
+        "d on't l eave.",
+        "н е ух оди."
+      ],
+      [
+        "s he wa s mi ne.",
+        "о на бы ла мо ей."
+      ]
+    ],
+    "mods/barnacle_voice_ai/finale.lua": [
+      [
+        "Lia",
+        "Лия"
+      ],
+      [
+        "You shouldn't be here alone.",
+        "Тебе не стоит быть здесь одному."
+      ],
+      [
+        "This place isn't safe for you.",
+        "Тебе здесь небезопасно."
+      ],
+      [
+        "Please... don't come any further.",
+        "Пожалуйста... не иди дальше."
+      ],
+      [
+        "...good. I'm glad you turned back.",
+        "...хорошо. Я рада, что ты повернул назад."
+      ],
+      [
+        "Thank you. This was the right choice.",
+        "Спасибо. Это был правильный выбор."
+      ],
+      [
+        "I'm glad you changed your mind.",
+        "Я рада, что ты передумал."
+      ],
+      [
+        "Good. You don't need to see the rest.",
+        "Хорошо. Тебе не нужно видеть остальное."
+      ],
+      [
+        "Turn back while you still can.",
+        "Поверни назад, пока ещё можешь."
+      ],
+      [
+        "This place isn't safe.",
+        "Здесь небезопасно."
+      ],
+      [
+        "Please... just leave.",
+        "Пожалуйста... просто уходи."
+      ],
+      [
+        "It changes people.",
+        "Оно меняет людей."
+      ],
+      [
+        "I don't want you to end up like the others.",
+        "Я не хочу, чтобы с тобой случилось то же, что с остальными."
+      ],
+      [
+        "Please don't let this place take you too.",
+        "Пожалуйста, не дай этому месту забрать и тебя."
+      ],
+      [
+        "If you keep going, it will notice you.",
+        "Если пойдёшь дальше, оно тебя заметит."
+      ],
+      [
+        "Please... don't let it see you.",
+        "Пожалуйста... не дай ему тебя увидеть."
+      ],
+      [
+        "This is your last chance to leave.",
+        "Это твой последний шанс уйти."
+      ],
+      [
+        "The chat only works one way down here.",
+        "Здесь чат работает только в одну сторону."
+      ],
+      [
+        "You made it...",
+        "Ты добрался..."
+      ],
+      [
+        "You're still yourself.",
+        "Ты всё ещё остаёшься собой."
+      ],
+      [
+        "I tried to keep you away.",
+        "Я пыталась не подпускать тебя."
+      ],
+      [
+        "But this place changes people.",
+        "Но это место меняет людей."
+      ],
+      [
+        "It started by copying things.",
+        "Сначала оно просто копировало."
+      ],
+      [
+        "Rooms. Halls. Places.",
+        "Комнаты. Залы. Места."
+      ],
+      [
+        "But it doesn't understand life.",
+        "Но оно не понимает, что такое жизнь."
+      ],
+      [
+        "Only patterns.",
+        "Только закономерности."
+      ],
+      [
+        "The growths are failed copies.",
+        "Наросты - это неудачные копии."
+      ],
+      [
+        "Corrupted matter it couldn't shape correctly.",
+        "Искажённая материя, которой оно не смогло придать нужную форму."
+      ],
+      [
+        "I trapped it here a long time ago.",
+        "Я давно заточила его здесь."
+      ],
+      [
+        "I thought I could control it.",
+        "Я думала, что смогу его контролировать."
+      ],
+      [
+        "But it learned from me.",
+        "Но оно училось у меня."
+      ],
+      [
+        "It took control away from me.",
+        "Оно отняло у меня контроль."
+      ],
+      [
+        "It won't let me die.",
+        "Оно не даёт мне умереть."
+      ],
+      [
+        "It won't let me stop it.",
+        "Оно не даёт мне его остановить."
+      ],
+      [
+        "I'm part of this place now.",
+        "Теперь я часть этого места."
+      ],
+      [
+        "But you are different.",
+        "Но ты другой."
+      ],
+      [
+        "It still recognizes you as a real user.",
+        "Оно всё ещё распознаёт в тебе настоящего пользователя."
+      ],
+      [
+        "While it was distracted, I found a command it couldn't erase.",
+        "Пока оно отвлеклось, я нашла команду, которую оно не смогло стереть."
+      ],
+      [
+        "I prepared it for you.",
+        "Я подготовила её для тебя."
+      ],
+      [
+        "But I can't execute it myself anymore.",
+        "Но сама я уже не могу её выполнить."
+      ],
+      [
+        "When you run it, everything here will be destroyed.",
+        "Когда ты её запустишь, всё здесь будет уничтожено."
+      ],
+      [
+        "This world.",
+        "Этот мир."
+      ],
+      [
+        "Me.",
+        "Я."
+      ],
+      [
+        "It.",
+        "Оно."
+      ],
+      [
+        "The corruption will consume all of it.",
+        "Искажение поглотит всё."
+      ],
+      [
+        "It's the only way.",
+        "Это единственный выход."
+      ],
+      [
+        "Please.",
+        "Пожалуйста."
+      ],
+      [
+        "End this.",
+        "Положи этому конец."
+      ],
+      [
+        "End Button",
+        "Кнопка завершения"
+      ],
+      [
+        "Reset the finale for testing (creative only)",
+        "Сбросить финал для проверки (только творческий режим)"
+      ],
+      [
+        "This command is only available in creative mode.",
+        "Эта команда доступна только в творческом режиме."
+      ],
+      [
+        "Finale state reset.",
+        "Состояние финала сброшено."
+      ]
+    ]
+  }
+}

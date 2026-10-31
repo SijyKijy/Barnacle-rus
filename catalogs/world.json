@@ -1,0 +1,110 @@
+{
+  "files": {
+    "mods/stairs/init.lua": [
+      [
+        "Inner ",
+        "Внутренний угол: ",
+        [
+          299
+        ]
+      ],
+      [
+        "Outer ",
+        "Внешний угол: ",
+        [
+          370
+        ]
+      ]
+    ],
+    "mods/multidecor/decor_api/door.lua": [
+      [
+        "Owned by ",
+        "Владелец: ",
+        [
+          245,
+          339
+        ]
+      ],
+      [
+        "Not enough free place to move the door!",
+        "Недостаточно места, чтобы сдвинуть дверь!",
+        [
+          288
+        ]
+      ]
+    ],
+    "mods/multidecor/decor_api/register.lua": [
+      [
+        "Not enough free place for the given node!",
+        "Недостаточно места для размещения!",
+        [
+          83
+        ]
+      ]
+    ],
+    "mods/default/nodes.lua": [
+      [
+        "Node is protected",
+        "Блок защищён",
+        [
+          2028
+        ]
+      ]
+    ],
+    "mods/flowers/init.lua": [
+      [
+        "Node is protected",
+        "Блок защищён",
+        [
+          320
+        ]
+      ]
+    ]
+  },
+  "extra": [
+    [
+      "Owned by %s",
+      "Владелец: %s"
+    ],
+    [
+      "You dont want to go outside",
+      "Тебе не хочется выходить наружу"
+    ],
+    [
+      "Doll Spawner\nwaiting for player",
+      "Точка появления куклы\nожидание игрока"
+    ],
+    [
+      "Duck Spawner\nwaiting for player in target area",
+      "Точка появления утки\nожидание игрока в нужной области"
+    ],
+    [
+      "Whale Spawner\nactive",
+      "Точка появления кита\nработает"
+    ],
+    [
+      "Scared Runner Spawner\ncooldown %ds",
+      "Точка появления испуганного бегуна\nперезарядка: %d с"
+    ],
+    [
+      "Scared Runner Spawner\nwaiting (need %d\u2013%dm, now %dm)",
+      "Точка появления испуганного бегуна\nожидание (нужно %d-%d м, сейчас %d м)"
+    ],
+    [
+      "Lia",
+      "Лия"
+    ],
+    [
+      "RU / EN",
+      "RU / EN"
+    ],
+    [
+      "Dismiss oldest",
+      "Скрыть старое"
+    ],
+    [
+      "Dismiss oldest message (Shift+E)",
+      "Скрыть самое старое сообщение (Shift+E)"
+    ]
+  ]
+}

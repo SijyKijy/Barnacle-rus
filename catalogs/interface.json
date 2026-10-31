@@ -1,0 +1,699 @@
+{
+  "files": {
+    "mods/barnacle_creator_tools/init.lua": [
+      [
+        "5x5 Stone Creator\nRechtsklick auf einen Block, um eine Steinkugel (Radius 5) zu platzieren.",
+        "Генератор камня 5×5\nПКМ по блоку: создать каменную сферу радиусом 5 блоков."
+      ],
+      [
+        "Snow Creator\nLinksklick/Rechtsklick: Verwandelt Blöcke in einem 10-Block-Radius in Schnee-Terrain.",
+        "Генератор снега\nЛКМ/ПКМ: превратить местность в радиусе 10 блоков в снежный ландшафт."
+      ],
+      [
+        "Grass Creator\nLinksklick/Rechtsklick: Verwandelt Blöcke in einem 10-Block-Radius in Barnacle Grass und setzt zufälliges Gras obendrauf.",
+        "Генератор травы\nЛКМ/ПКМ: покрыть местность в радиусе 10 блоков травой Barnacle и добавить случайные пучки травы."
+      ],
+      [
+        "Grass Creator Fehler: Node '",
+        "Ошибка генератора травы: блок \""
+      ],
+      [
+        "' wurde nicht gefunden.",
+        "\" не найден."
+      ]
+    ],
+    "mods/barnacle_credits/init.lua": [
+      [
+        "game by LuN\n",
+        "автор игры - LuN\n"
+      ],
+      [
+        "music by nate sassoon\n",
+        "музыка - nate sassoon\n"
+      ],
+      [
+        "additional mods by ROllerozxa, Qual, Andrey01, QBSteve, theFox, sfan5\n",
+        "дополнительные моды - ROllerozxa, Qual, Andrey01, QBSteve, theFox, sfan5\n"
+      ],
+      [
+        "powered by Luanti Game engine\n",
+        "на игровом движке Luanti\n"
+      ],
+      [
+        "thanks for playing the game",
+        "спасибо за игру"
+      ],
+      [
+        "Credits Block",
+        "Блок с титрами"
+      ],
+      [
+        "Credits Block Variant",
+        "Вариант блока с титрами"
+      ]
+    ],
+    "mods/barnacle_frontend/init.lua": [
+      [
+        "NEW GAME",
+        "НОВАЯ ИГРА"
+      ],
+      [
+        "CONTINUE",
+        "ПРОДОЛЖИТЬ"
+      ],
+      [
+        "CONTINUE (NO SAVE)",
+        "НЕТ СОХРАНЕНИЯ"
+      ],
+      [
+        "OPTIONS",
+        "НАСТРОЙКИ"
+      ],
+      [
+        "EXIT",
+        "ВЫХОД"
+      ],
+      [
+        "START NEW GAME?",
+        "НАЧАТЬ НОВУЮ ИГРУ?"
+      ],
+      [
+        "THIS WILL RESET YOUR PROGRESS.",
+        "ВЕСЬ ПРОГРЕСС БУДЕТ СБРОШЕН."
+      ],
+      [
+        "YES",
+        "ДА"
+      ],
+      [
+        "NO",
+        "НЕТ"
+      ],
+      [
+        "MASTER VOLUME: ",
+        "ОБЩАЯ ГРОМКОСТЬ: "
+      ],
+      [
+        "MUSIC VOLUME: ",
+        "ГРОМКОСТЬ МУЗЫКИ: "
+      ],
+      [
+        "OFF",
+        "ВЫКЛ."
+      ],
+      [
+        "ON",
+        "ВКЛ."
+      ],
+      [
+        "PIXELATION: ",
+        "ПИКСЕЛИЗАЦИЯ: "
+      ],
+      [
+        "(requires restart)",
+        "(нужен перезапуск)"
+      ],
+      [
+        "GUI SCALE: %d%%",
+        "МАСШТАБ ИНТЕРФЕЙСА: %d%%"
+      ],
+      [
+        "MOUSE SENSITIVITY: ",
+        "ЧУВСТВИТЕЛЬНОСТЬ МЫШИ: "
+      ],
+      [
+        "DITHERING",
+        "ДИЗЕРИНГ"
+      ],
+      [
+        "COLOR ABERR.",
+        "ХРОМ. АБЕРР."
+      ],
+      [
+        "BRIGHTNESS",
+        "ЯРКОСТЬ"
+      ],
+      [
+        "APPLY & RESTART",
+        "ПРИМЕНИТЬ И ПЕРЕЗАПУСТИТЬ"
+      ],
+      [
+        "BACK",
+        "НАЗАД"
+      ],
+      [
+        "PAUSED",
+        "ПАУЗА"
+      ],
+      [
+        "Resume",
+        "Продолжить"
+      ],
+      [
+        "Wake Up",
+        "Проснуться"
+      ],
+      [
+        "Controls",
+        "Управление"
+      ],
+      [
+        "Back to Main Menu",
+        "В главное меню"
+      ],
+      [
+        "CONTROLS",
+        "УПРАВЛЕНИЕ"
+      ],
+      [
+        "W / A / S / D  - Move",
+        "W / A / S / D - движение"
+      ],
+      [
+        "Mouse  - Look",
+        "Мышь - осмотреться"
+      ],
+      [
+        "Space  - Jump",
+        "Пробел - прыжок"
+      ],
+      [
+        "E  - Pause / Wake",
+        "E - пауза / пробуждение"
+      ],
+      [
+        "Mouse Wheel  - Switch Items",
+        "Колёсико мыши - выбор предмета"
+      ],
+      [
+        "Shift  - Crouch / Go Down Ladders",
+        "Shift - присесть / спуск по лестнице"
+      ],
+      [
+        "Right Click  - Use Items / Interact",
+        "ПКМ - использовать / взаимодействовать"
+      ],
+      [
+        "Back",
+        "Назад"
+      ],
+      [
+        "WAKE UP?",
+        "ПРОСНУТЬСЯ?"
+      ],
+      [
+        "NO SAVE FOUND",
+        "СОХРАНЕНИЕ НЕ НАЙДЕНО"
+      ],
+      [
+        "You cannot wake up now.",
+        "Сейчас нельзя проснуться."
+      ],
+      [
+        "You are not sleeping.",
+        "Ты не спишь."
+      ],
+      [
+        "You cannot leave now.",
+        "Сейчас нельзя уйти."
+      ],
+      [
+        "Quit",
+        "Выход"
+      ],
+      [
+        "YOU CANNOT RESET NOW",
+        "СЕЙЧАС НЕЛЬЗЯ СБРОСИТЬ ПРОГРЕСС"
+      ],
+      [
+        "GUI SCALE SAVED (RESTART TO APPLY)",
+        "МАСШТАБ СОХРАНЁН (НУЖЕН ПЕРЕЗАПУСК)"
+      ],
+      [
+        "Applying GUI scale…",
+        "Применяется масштаб интерфейса…"
+      ],
+      [
+        "Open Wake Up menu (same as Aux1/F)",
+        "Открыть меню пробуждения (E)"
+      ]
+    ],
+    "mods/barnacle_items/hammer.lua": [
+      [
+        "Hammer",
+        "Молоток"
+      ],
+      [
+        "Crack Hammer",
+        "Молоток для создания трещин"
+      ],
+      [
+        "Yeah. We used to see blocks like this all the time. Max said restarting the game would usually fix this block.",
+        "Да. Раньше такие блоки нам постоянно попадались. Макс говорил, что после перезапуска игры такой блок обычно приходит в норму."
+      ],
+      [
+        " (Cracked ",
+        " (Трещины: "
+      ],
+      [
+        "Lia: %s",
+        "Лия: %s"
+      ]
+    ],
+    "mods/barnacle_items/init.lua": [
+      [
+        "Sprint Relic",
+        "Реликвия скорости"
+      ],
+      [
+        "Key Bowl",
+        "Чаша ключей"
+      ],
+      [
+        "Glowstick",
+        "Светящаяся палочка"
+      ],
+      [
+        "High Jump Relic",
+        "Реликвия прыжка"
+      ],
+      [
+        "Chalk",
+        "Мел"
+      ],
+      [
+        "Chalk X",
+        "Крестик мелом"
+      ],
+      [
+        "Chalk O",
+        "Кружок мелом"
+      ],
+      [
+        "Chalk Up",
+        "Стрелка мелом: вверх"
+      ],
+      [
+        "Chalk Right",
+        "Стрелка мелом: вправо"
+      ],
+      [
+        "Chalk Down",
+        "Стрелка мелом: вниз"
+      ],
+      [
+        "Chalk Left",
+        "Стрелка мелом: влево"
+      ],
+      [
+        "Locked",
+        "Заперто"
+      ],
+      [
+        "Unlocked",
+        "Отперто"
+      ],
+      [
+        "Locked.",
+        "Заперто."
+      ],
+      [
+        "Locked Door",
+        "Запертая дверь"
+      ],
+      [
+        "Locked Door (Top)",
+        "Запертая дверь (верх)"
+      ],
+      [
+        "Locked Door (Open)",
+        "Запертая дверь (открыта)"
+      ],
+      [
+        "Locked Door (Open Top)",
+        "Запертая дверь (открытый верх)"
+      ]
+    ],
+    "mods/barnacle_killarea/init.lua": [
+      [
+        "Remove all entities within radius (players excluded).",
+        "Удалить все сущности в заданном радиусе, кроме игроков."
+      ],
+      [
+        "Player not found.",
+        "Игрок не найден."
+      ],
+      [
+        "Removed %d entities within %d blocks.",
+        "Удалено сущностей: %d. Радиус: %d блоков."
+      ],
+      [
+        "50 Blocks Water Down",
+        "Очистка на 50 блоков вниз"
+      ]
+    ],
+    "mods/barnacle_lights/init.lua": [
+      [
+        "Ceiling Light",
+        "Потолочный светильник"
+      ]
+    ],
+    "mods/barnacle_lockdown/init.lua": [
+      [
+        "Command /openhub is not available.",
+        "Команда /openhub недоступна."
+      ],
+      [
+        "Command /opennight is not available.",
+        "Команда /opennight недоступна."
+      ],
+      [
+        "Command failed.",
+        "Не удалось выполнить команду."
+      ],
+      [
+        "This command is disabled.",
+        "Эта команда отключена."
+      ]
+    ],
+    "mods/barnacle_map/init.lua": [
+      [
+        "button_exit[7.1,10.02;1.8,0.35;close;Close]",
+        "button_exit[7.1,10.02;1.8,0.35;close;Закрыть]"
+      ],
+      [
+        "Map Fragment Pickup",
+        "Подбираемый фрагмент карты"
+      ],
+      [
+        "Torn Map\nIt cannot be used yet.",
+        "Порванная карта\nПока ей нельзя пользоваться."
+      ],
+      [
+        "World Map\nRight-click to open.",
+        "Карта мира\nПКМ: открыть."
+      ],
+      [
+        "World Map\nAll fragments found.\nRight-click to open.",
+        "Карта мира\nВсе фрагменты найдены.\nПКМ: открыть."
+      ],
+      [
+        "Map Frame",
+        "Рамка для карты"
+      ],
+      [
+        "Map Table\nRight-click to view the map.",
+        "Стол с картой\nПКМ: посмотреть карту."
+      ],
+      [
+        "Shows map progress.",
+        "Показать прогресс сбора карты."
+      ],
+      [
+        "Fragments: %d/%d | Map Frame: %s | Map Unlocked: %s | All Fragments: %s | Reset Serial: %d\nFound: %s",
+        "Фрагменты: %d/%d | Рамка карты: %s | Карта открыта: %s | Все фрагменты: %s | Номер сброса: %d\nНайдено: %s"
+      ],
+      [
+        "Yes",
+        "Да"
+      ],
+      [
+        "No",
+        "Нет"
+      ],
+      [
+        "Fully resets all map progress.",
+        "Полностью сбросить прогресс сбора карты."
+      ],
+      [
+        "Map progress fully reset.",
+        "Прогресс сбора карты полностью сброшен."
+      ],
+      [
+        "Nukes stored map progress for debugging.",
+        "Стереть сохранённый прогресс сбора карты для отладки."
+      ],
+      [
+        "Map storage wiped and rebuilt.",
+        "Хранилище карты очищено и создано заново."
+      ]
+    ],
+    "mods/barnacle_mobs/mobs/Angel.lua": [
+      [
+        "Angel Spawner (Invisible)",
+        "Точка появления ангела (невидимая)"
+      ]
+    ],
+    "mods/barnacle_mobs/mobs/doll.lua": [
+      [
+        "Doll Spawner\n",
+        "Точка появления куклы\n"
+      ],
+      [
+        "Doll Spawner",
+        "Точка появления куклы"
+      ],
+      [
+        "ready",
+        "готово",
+        [
+          970
+        ]
+      ],
+      [
+        "active",
+        "работает",
+        [
+          983,
+          1010
+        ]
+      ],
+      [
+        "waiting for player",
+        "ожидание игрока"
+      ],
+      [
+        "active (far)",
+        "работает (далеко)"
+      ]
+    ],
+    "mods/barnacle_mobs/mobs/duck.lua": [
+      [
+        "Duck Spawner\n",
+        "Точка появления утки\n"
+      ],
+      [
+        "Duck Spawner",
+        "Точка появления утки"
+      ],
+      [
+        "ready",
+        "готово",
+        [
+          986
+        ]
+      ],
+      [
+        "waiting for player in target area",
+        "ожидание игрока в нужной области"
+      ],
+      [
+        "duck active",
+        "утка активна"
+      ],
+      [
+        "searching free spawn position",
+        "поиск свободного места появления"
+      ],
+      [
+        "ERROR: add_entity failed",
+        "ОШИБКА: не удалось создать сущность"
+      ],
+      [
+        "spawned",
+        "существо создано",
+        [
+          1030
+        ]
+      ]
+    ],
+    "mods/barnacle_mobs/mobs/fish.lua": [
+      [
+        "feeling smart eh?",
+        "Хитро придумано, да?"
+      ]
+    ],
+    "mods/barnacle_mobs/mobs/lia.lua": [
+      [
+        "Lia Spawner",
+        "Точка появления Лии"
+      ]
+    ],
+    "mods/barnacle_mobs/mobs/path_box.lua": [
+      [
+        "Path Box Spawner",
+        "Точка появления куба"
+      ]
+    ],
+    "mods/barnacle_mobs/mobs/scared_runner.lua": [
+      [
+        "Scared Runner Spawner\n",
+        "Точка появления испуганного бегуна\n"
+      ],
+      [
+        "Scared Runner Spawner",
+        "Точка появления испуганного бегуна"
+      ],
+      [
+        "cooldown ",
+        "перезарядка: "
+      ],
+      [
+        "s",
+        " с",
+        [
+          235,
+          265
+        ]
+      ],
+      [
+        "ready (spawn only 30\u201335m)",
+        "готово (дистанция появления: 30-35 м)"
+      ],
+      [
+        "mob active",
+        "моб активен"
+      ],
+      [
+        "no players",
+        "нет игроков"
+      ],
+      [
+        "waiting (need 30\u201335m, now ",
+        "ожидание (нужно 30-35 м, сейчас "
+      ],
+      [
+        "m)",
+        " м)",
+        [
+          277
+        ]
+      ],
+      [
+        "ERROR: add_entity failed",
+        "ОШИБКА: не удалось создать сущность"
+      ],
+      [
+        "spawned!",
+        "создан!"
+      ]
+    ],
+    "mods/barnacle_mobs/mobs/whale.lua": [
+      [
+        "Whale Spawner\n",
+        "Точка появления кита\n"
+      ],
+      [
+        "Whale Spawner",
+        "Точка появления кита"
+      ],
+      [
+        "cooldown",
+        "перезарядка",
+        [
+          128,
+          286
+        ]
+      ],
+      [
+        "ready",
+        "готово",
+        [
+          271
+        ]
+      ],
+      [
+        "active",
+        "работает",
+        [
+          279
+        ]
+      ],
+      [
+        "ERROR: add_entity failed",
+        "ОШИБКА: не удалось создать сущность"
+      ],
+      [
+        "spawned",
+        "существо создано",
+        [
+          302
+        ]
+      ]
+    ],
+    "mods/barnacle_randomsounds/init.lua": [
+      [
+        "Trigger a random Barnacle ambient sound immediately.",
+        "Немедленно проиграть случайный фоновый звук Barnacle."
+      ],
+      [
+        "Player not found.",
+        "Игрок не найден."
+      ],
+      [
+        "Random sound played.",
+        "Случайный звук проигран."
+      ],
+      [
+        "Random sound blocked by current player state or area.",
+        "Случайный звук заблокирован текущим состоянием игрока или областью."
+      ]
+    ],
+    "mods/barnacle_steam_achivements/cold_sweat.lua": [
+      [
+        "Test cold sweat achievement",
+        "Проверить достижение за холодный пот"
+      ],
+      [
+        "Player not found.",
+        "Игрок не найден."
+      ],
+      [
+        "[Barnacle] unlock result: ",
+        "[Barnacle] результат получения достижения: "
+      ]
+    ],
+    "mods/barnacle_steam_achivements/init.lua": [
+      [
+        "Reset all local achievements",
+        "Сбросить все локальные достижения"
+      ],
+      [
+        "All achievements reset.",
+        "Все достижения сброшены."
+      ],
+      [
+        "Test Steam achievement unlock",
+        "Проверить получение достижения Steam"
+      ],
+      [
+        "[Barnacle] unlock result: ",
+        "[Barnacle] результат получения достижения: "
+      ]
+    ],
+    "mods/barnacle_steam_achivements/sleep.lua": [
+      [
+        "Test first sleep achievement",
+        "Проверить достижение за первый сон"
+      ],
+      [
+        "Player not found.",
+        "Игрок не найден."
+      ],
+      [
+        "[Barnacle] unlock result: ",
+        "[Barnacle] результат получения достижения: "
+      ]
+    ]
+  }
+}

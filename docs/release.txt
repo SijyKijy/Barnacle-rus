@@ -1,0 +1,7 @@
+Русификатор для игры [Barnacle](https://store.steampowered.com/app/4627630/Barnacle/)
+Для Steam build [23511000](https://steamdb.info/patchnotes/23511000/)
+
+[Скачать русификатор](https://github.com/SijyKijy/Barnacle-rus/releases/download/v<версия>/Barnacle-RU-<версия>.zip)
+
+Распакуй `Barnacle-RU-<версия>.zip` в папку игры с заменой файлов
+Запускай Barnacle через Steam

@@ -1,0 +1,122 @@
+{
+  "files": {
+    "mods/minesweeper_block/init.lua": [
+      [
+        "EASY",
+        "ЛЕГКО"
+      ],
+      [
+        "NORMAL",
+        "СРЕДНЕ"
+      ],
+      [
+        "HARD",
+        "СЛОЖНО"
+      ],
+      [
+        "BARNACLE SWEEPER",
+        "САПЁР BARNACLE"
+      ],
+      [
+        "BARNACLES: ",
+        "МИН: "
+      ],
+      [
+        "TIME: ",
+        "ВРЕМЯ: "
+      ],
+      [
+        "BOARDS CLEARED: ",
+        "ПРОЙДЕНО ПОЛЕЙ: "
+      ],
+      [
+        "Easy",
+        "Легко"
+      ],
+      [
+        "Normal",
+        "Средне"
+      ],
+      [
+        "Hard",
+        "Сложно"
+      ],
+      [
+        "Reset",
+        "Заново"
+      ],
+      [
+        "BOARD CLEARED. WELL DONE.",
+        "ПОЛЕ ПРОЙДЕНО. ОТЛИЧНО."
+      ],
+      [
+        "BARNACLE TRIGGERED. GAME OVER.",
+        "МИНА СРАБОТАЛА. КОНЕЦ ИГРЫ."
+      ],
+      [
+        "Left click: reveal",
+        "ЛКМ: открыть клетку"
+      ],
+      [
+        "Barnacle Sweeper\nRight-click to play",
+        "Сапёр Barnacle\nПКМ: играть"
+      ],
+      [
+        "Barnacle Sweeper Cabinet Block",
+        "Корпус автомата \"Сапёр Barnacle\""
+      ]
+    ],
+    "mods/weather/command.lua": [
+      [
+        "Change the weather",
+        "Изменить погоду"
+      ],
+      [
+        "<type> [seconds]",
+        "<тип> [секунды]"
+      ],
+      [
+        "Set weather. Example: /setweather weather:storm 60",
+        "Задать погоду. Пример: /setweather weather:storm 60"
+      ],
+      [
+        "Usage: /setweather <type> [seconds]\nAvailable: ",
+        "Использование: /setweather <тип> [секунды]\nДоступно: "
+      ],
+      [
+        "Unknown weather type: ",
+        "Неизвестный тип погоды: "
+      ],
+      [
+        "\nAvailable: ",
+        "\nДоступно: "
+      ],
+      [
+        "Weather engine not available",
+        "Система погоды недоступна"
+      ]
+    ]
+  },
+  "extra": [
+    [
+      "TIME: %ds",
+      "ВРЕМЯ: %d с"
+    ],
+    [
+      "BARNACLES: %d",
+      "МИН: %d"
+    ],
+    [
+      "BOARDS CLEARED: %d",
+      "ПРОЙДЕНО ПОЛЕЙ: %d"
+    ],
+    [
+      "weather set to '%s' for %s seconds",
+      "Погода: \"%s\", длительность: %s с"
+    ],
+    [
+      "weather set to '%s'",
+      "Погода: \"%s\""
+    ]
+  ]
+}

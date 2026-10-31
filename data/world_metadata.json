@@ -1,0 +1,178 @@
+{
+  "source_map_sha256": "ec1e68d252ecdad1d74d556fd273431d26287bc1996464d3b01acfcc9cc7f2f2",
+  "nodenames": [
+    "barnacle_items:locked_door",
+    "barnacle_items:locked_door_top",
+    "barnacle_mobs:doll_spawner",
+    "barnacle_mobs:duck_spawner",
+    "barnacle_mobs:scared_runner_spawner",
+    "barnacle_mobs:whale_spawner",
+    "default:sign_wall_wood",
+    "multidecor:metallic_locked_door"
+  ],
+  "positions": {
+    "94,9,505": {
+      "infotext": "Scared Runner Spawner\ncooldown 60s"
+    },
+    "-434,14,84": {
+      "infotext": "Doll Spawner\nwaiting for player"
+    },
+    "-92,26,-468": {
+      "infotext": "Locked"
+    },
+    "-92,27,-468": {
+      "infotext": "Locked"
+    },
+    "-117,26,-461": {
+      "infotext": "Locked"
+    },
+    "-117,27,-461": {
+      "infotext": "Locked"
+    },
+    "-100,26,-462": {
+      "infotext": "Locked"
+    },
+    "-100,27,-462": {
+      "infotext": "Locked"
+    },
+    "-97,26,-486": {
+      "infotext": "Locked"
+    },
+    "-97,27,-486": {
+      "infotext": "Locked"
+    },
+    "-115,34,-486": {
+      "infotext": "Locked"
+    },
+    "-115,35,-486": {
+      "infotext": "Locked"
+    },
+    "-1647,25,539": {
+      "infotext": "You dont want to go outside"
+    },
+    "-1646,13,551": {
+      "infotext": "You dont want to go outside"
+    },
+    "-1589,-76,402": {
+      "infotext": "Locked"
+    },
+    "-1589,-75,402": {
+      "infotext": "Locked"
+    },
+    "-1497,9,503": {
+      "infotext": "Locked"
+    },
+    "-1497,10,503": {
+      "infotext": "Locked"
+    },
+    "-1492,0,562": {
+      "infotext": "Whale Spawner\nactive"
+    },
+    "48,9,422": {
+      "infotext": "Scared Runner Spawner\ncooldown 60s"
+    },
+    "48,9,424": {
+      "infotext": "Scared Runner Spawner\ncooldown 60s"
+    },
+    "71,7,329": {
+      "infotext": "Scared Runner Spawner\ncooldown 9s"
+    },
+    "-72,7,388": {
+      "infotext": "Scared Runner Spawner\ncooldown 34s"
+    },
+    "25,-5,-157": {
+      "infotext": "Locked"
+    },
+    "25,-4,-157": {
+      "infotext": "Locked"
+    },
+    "-102,12,-654": {
+      "infotext": "Locked"
+    },
+    "-102,13,-654": {
+      "infotext": "Locked"
+    },
+    "-64,26,-667": {
+      "formspec": "field[text;;${text}]"
+    },
+    "-64,26,-662": {
+      "formspec": "field[text;;${text}]"
+    },
+    "-443,21,-422": {
+      "infotext": "Duck Spawner\nwaiting for player in target area"
+    },
+    "-344,14,108": {
+      "infotext": "Doll Spawner\nwaiting for player"
+    },
+    "-328,14,163": {
+      "infotext": "Doll Spawner\nwaiting for player"
+    },
+    "-390,14,208": {
+      "infotext": "Doll Spawner\nwaiting for player"
+    },
+    "-379,14,117": {
+      "infotext": "Doll Spawner\nwaiting for player"
+    },
+    "-402,14,154": {
+      "infotext": "Doll Spawner\nwaiting for player"
+    },
+    "-355,14,142": {
+      "infotext": "Doll Spawner\nwaiting for player"
+    },
+    "-380,14,173": {
+      "infotext": "Doll Spawner\nwaiting for player"
+    },
+    "-406,14,185": {
+      "infotext": "Doll Spawner\nwaiting for player"
+    },
+    "-320,14,206": {
+      "infotext": "Doll Spawner\nwaiting for player"
+    },
+    "-80,7,272": {
+      "infotext": "Scared Runner Spawner\nwaiting (need 30\u201335m, now 283m)"
+    },
+    "-11,11,317": {
+      "infotext": "Scared Runner Spawner\ncooldown 60s"
+    },
+    "-46,9,333": {
+      "infotext": "Scared Runner Spawner\ncooldown 60s"
+    },
+    "46,9,367": {
+      "infotext": "Scared Runner Spawner\ncooldown 60s"
+    },
+    "-258,14,147": {
+      "infotext": "Doll Spawner\nwaiting for player"
+    },
+    "-254,14,207": {
+      "infotext": "Doll Spawner\nwaiting for player"
+    },
+    "-292,14,72": {
+      "infotext": "Doll Spawner\nwaiting for player"
+    },
+    "-305,14,110": {
+      "infotext": "Doll Spawner\nwaiting for player"
+    },
+    "-281,14,151": {
+      "infotext": "Doll Spawner\nwaiting for player"
+    },
+    "-304,14,169": {
+      "infotext": "Doll Spawner\nwaiting for player"
+    },
+    "-253,14,93": {
+      "infotext": "Doll Spawner\nwaiting for player"
+    },
+    "1546,-24,83": {
+      "infotext": "Locked"
+    },
+    "1546,-23,83": {
+      "infotext": "Locked"
+    },
+    "-4,11,0": {
+      "infotext": "You dont want to go outside"
+    },
+    "26,9,-3": {
+      "formspec": "size[8,7;]list[context;books;0,0.3;8,2;]list[current_player;main;0,2.85;8,1;]list[current_player;main;0,4.08;8,3;8]listring[context;books]listring[current_player;main]image[0,2.85;1,1;gui_hb_bg.png]image[1,2.85;1,1;gui_hb_bg.png]image[2,2.85;1,1;gui_hb_bg.png]image[3,2.85;1,1;gui_hb_bg.png]image[4,2.85;1,1;gui_hb_bg.png]image[5,2.85;1,1;gui_hb_bg.png]image[6,2.85;1,1;gui_hb_bg.png]image[7,2.85;1,1;gui_hb_bg.png]image[0,0.3;1,1;default_bookshelf_slot.png]image[1,0.3;1,1;default_bookshelf_slot.png]image[2,0.3;1,1;default_bookshelf_slot.png]image[3,0.3;1,1;default_bookshelf_slot.png]image[4,0.3;1,1;default_bookshelf_slot.png]image[5,0.3;1,1;default_bookshelf_slot.png]image[6,0.3;1,1;default_bookshelf_slot.png]image[7,0.3;1,1;default_bookshelf_slot.png]image[0,1.3;1,1;default_bookshelf_slot.png]image[1,1.3;1,1;default_bookshelf_slot.png]image[2,1.3;1,1;default_bookshelf_slot.png]image[3,1.3;1,1;default_bookshelf_slot.png]image[4,1.3;1,1;default_bookshelf_slot.png]image[5,1.3;1,1;default_bookshelf_slot.png]image[6,1.3;1,1;default_bookshelf_slot.png]image[7,1.3;1,1;default_bookshelf_slot.png]",
+      "infotext": "\u001b(T@default)Empty Bookshelf\u001bE"
+    }
+  }
+}

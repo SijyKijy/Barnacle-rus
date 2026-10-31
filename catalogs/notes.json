@@ -1,0 +1,216 @@
+{
+  "files": {
+    "mods/barnacle_blocks/notes.lua": [
+      [
+        "Atom Bunker Note",
+        "Записка из атомного бункера"
+      ],
+      [
+        "Cratered Village Note",
+        "Записка из деревни с кратером"
+      ],
+      [
+        "Church Note",
+        "Записка из церкви"
+      ],
+      [
+        "Sewer Note",
+        "Записка из канализации"
+      ],
+      [
+        "Hidden Facility Note",
+        "Записка из тайного комплекса"
+      ],
+      [
+        "Safe Spot Note",
+        "Записка из безопасного места"
+      ],
+      [
+        "House Note",
+        "Записка из дома"
+      ],
+      [
+        "Black Blocks Note",
+        "Записка о чёрных блоках"
+      ],
+      [
+        "Trapped Note",
+        "Записка из ловушки"
+      ],
+      [
+        "Containment Note",
+        "Записка об удержании существа"
+      ],
+      [
+        "Hidden Key Note",
+        "Записка о спрятанном ключе"
+      ],
+      [
+        "Prison Cell Note",
+        "Записка из тюремной камеры"
+      ],
+      [
+        "Lost Player Note",
+        "Записка потерявшегося игрока"
+      ],
+      [
+        "Hub Meeting Note",
+        "Записка о встрече в хабе"
+      ],
+      [
+        "Strange Command Note",
+        "Записка о странной команде"
+      ],
+      [
+        "Hub Complaint Note",
+        "Жалоба на постройку в хабе"
+      ],
+      [
+        "Contest Announcement Note",
+        "Объявление о конкурсе"
+      ],
+      [
+        "Server Plans Note",
+        "Планы по развитию сервера"
+      ],
+      [
+        "Contest Participants Note",
+        "Список участников конкурса"
+      ],
+      [
+        "Community Hall Note",
+        "Записка из общественного зала"
+      ],
+      [
+        "Old Log Note",
+        "Старая запись"
+      ],
+      [
+        "Test Log Note",
+        "Запись об испытании"
+      ],
+      [
+        "Final Log Note",
+        "Последняя запись"
+      ],
+      [
+        "Confused Note",
+        "Недоумённая записка"
+      ],
+      [
+        "Door Island Discovery Note",
+        "Записка об открытии на острове дверей"
+      ],
+      [
+        "Reset Barnacle note trophy progress and clear trophy hall.",
+        "Сбросить собранные записки Barnacle и очистить зал трофеев."
+      ],
+      [
+        "Barnacle note trophies reset.",
+        "Прогресс сбора записок Barnacle сброшен."
+      ]
+    ]
+  },
+  "extra": [
+    [
+      "I'm still not fully satisfied with the seamless loop in the cornfield.\nSomething about it feels slightly off.\n\nBut it might be good enough for the contest.\nAfter all, this whole thing was meant to be fun.\n\nIf someone notices it... maybe they'll appreciate the attempt.",
+      "Бесшовная петля в кукурузном поле\nменя всё ещё не вполне устраивает.\nЧто-то в ней немного не так.\n\nНо для конкурса, пожалуй, сойдёт.\nВ конце концов, всё это затевалось ради веселья.\n\nЕсли кто-то заметит... может, оценит мою попытку."
+    ],
+    [
+      "Are you serious?\n\nMy village was right here.\nI built it block by block.\n\nAnd now there's just a giant crater.\n\nIf this was you, say it to my face.\nThis isn't funny.\n\n\u2014 R.",
+      "Ты серьёзно?\n\nМоя деревня была прямо здесь.\nЯ строил её блок за блоком.\n\nА теперь тут просто огромный кратер.\n\nЕсли это твоих рук дело - скажи мне в лицо.\nЭто не смешно.\n\n- R."
+    ],
+    [
+      "O new God, why do you walk only in ruin?\nWhy do your footsteps fall upon fields of bone?\n\nWe called for mercy and you answered with silence.\nWe prayed for salvation and you sent only night.\n\nDeath has become the gentlest hand among us.\nA quiet mercy where your light does not reach.\n\nIf this is your kingdom,\nthen we have already entered the grave.",
+      "О новый Боже, почему твой путь лежит лишь средь руин?\nПочему твои шаги звучат над полями костей?\n\nМы взывали о милости - ты отвечал молчанием.\nМы молили о спасении - ты посылал лишь ночь.\n\nРука смерти стала самой ласковой из всех.\nТихим милосердием там, куда не достигает твой свет.\n\nЕсли это твоё царство,\nзначит, мы уже сошли в могилу."
+    ],
+    [
+      "There is no divine return.\n\nNo voice from the heavens,\nno hand reaching back.\n\nWhatever answered us\nwas never a god.",
+      "Божественного возвращения не существует.\n\nНи голоса с небес,\nни протянутой в ответ руки.\n\nТо, что нам ответило,\nникогда не было богом."
+    ],
+    [
+      "The server has been strangely quiet lately.\n\nNo new builds appearing overnight.\nNo players logging in.\nJust... silence.\n\nBut something isn't right.\n\nI keep finding small things changed around my builds.\nBlocks slightly out of place.\nA torch moved.\nA wall that I swear wasn't cracked before.\n\nNothing big enough to prove anything.\nJust enough to make me question my own memory.\n\nI haven't seen anyone.\nNo footsteps.\nNo names in chat.\n\nBut someone is touching my things.\n\nI've moved deeper into the facility.\nThe entrance is hidden now.\n\nIf someone is out there,\nI just hope they never find this place.",
+      "В последнее время на сервере странно тихо.\n\nЗа ночь не появляются новые постройки.\nИгроки не заходят.\nПросто... тишина.\n\nНо что-то не так.\n\nЯ постоянно замечаю мелкие изменения у своих построек.\nБлоки чуть сдвинуты.\nФакел перенесли.\nТрещина в стене, которой, клянусь, раньше не было.\n\nНичего такого, что могло бы что-то доказать.\nРовно столько, чтобы усомниться в собственной памяти.\n\nЯ никого не видел.\nНи шагов.\nНи имён в чате.\n\nНо кто-то трогает мои вещи.\n\nЯ перебрался вглубь комплекса.\nТеперь вход спрятан.\n\nЕсли там кто-то есть,\nя лишь надеюсь, что это место никогда не найдут."
+    ],
+    [
+      "I can't get out of this map.\n\nI've tried everything.\nEvery road, every corner, every path that looked different.\nIt always leads me back here.\n\nWhere I am now is the only safe place I've found.\nThe creatures don't come here.\nAt least not yet.\n\nBut I can't leave, either.\n\nIt's not shelter.\nIt's just another kind of trap.",
+      "Я не могу выбраться с этой карты.\n\nЯ перепробовал всё.\nВсе дороги, все углы, все тропинки, что казались другими.\nИ всегда возвращаюсь сюда.\n\nЗдесь - единственное безопасное место, что я нашёл.\nЭти существа сюда не заходят.\nПо крайней мере, пока.\n\nНо уйти я тоже не могу.\n\nЭто не убежище.\nПросто другая ловушка."
+    ],
+    [
+      "If you're still out there…\n\nI've been watching the nights.\n\nThere are things you don't see during the day.\nOpenings. Marks. Changes.\n\nI don't think it's random.\nIt feels like it's trying to show something.\n\nI know you think digging down is the way out.\nBut I don't think it's getting us anywhere.\n\nIt feels like we're just going deeper into this place.\n\nBut if you still believe in it,\nkeep trying.\n\nI'm going to keep watching the nights.",
+      "Если ты ещё там…\n\nЯ наблюдаю за тем, что происходит по ночам.\n\nЕсть вещи, которых днём не увидишь.\nПроходы. Следы. Изменения.\n\nНе думаю, что это случайность.\nСловно оно пытается что-то показать.\n\nЯ знаю: ты думаешь, что выход - копать вниз.\nНо, по-моему, это ни к чему не приводит.\n\nБудто мы лишь всё глубже погружаемся в это место.\n\nНо если ты всё ещё в это веришь,\nпродолжай пытаться.\n\nА я продолжу наблюдать за ночами."
+    ],
+    [
+      "Lia,\n\nI have those black blocks in my world now too.\n\nI tried to contain them,\nbut they just keep appearing.\nAnd they're spreading.\n\nThey change things.\nIf you touch them,\nunpredictable things can happen.\n\nI'm going to keep investigating this\nand try to find the source.",
+      "Лия,\n\nу меня в мире теперь тоже есть эти чёрные блоки.\n\nЯ пытался их сдержать,\nно они всё появляются.\nИ расползаются.\n\nОни меняют вещи.\nЕсли прикоснуться к ним,\nможет случиться что угодно.\n\nЯ продолжу разбираться в этом\nи попытаюсь найти источник."
+    ],
+    [
+      "I got trapped here...\n\nIt wants me to stay.\nIt wants me to act normal.\nTo walk around like this place makes sense.\n\nBut this world is not normal.\n\nThis is not what the game looks like.\nIt's trying to imitate a normal world,\nbut it can't do it right.\n\nThings are always slightly wrong.\nThe shapes. The silence. The way everything feels.\n\nAnd when I try to break out,\nit gets angry.\n\nIt took away my ability to dig.\nI can't break anything anymore.\n\nI still have a few blocks left to place.\n\nI know what I have to do now.\nThis is the last way out.",
+      "Я оказался здесь в ловушке...\n\nОно хочет, чтобы я остался.\nХочет, чтобы я вёл себя как обычно.\nБродил вокруг, будто в этом месте есть смысл.\n\nНо этот мир ненормальный.\n\nИгра выглядит совсем иначе.\nОно пытается изобразить обычный мир,\nно у него не получается.\n\nВечно что-то чуть-чуть не так.\nФормы. Тишина. Само ощущение этого места.\n\nА когда я пытаюсь вырваться,\nоно злится.\n\nОно отняло у меня возможность копать.\nЯ больше ничего не могу сломать.\n\nУ меня ещё осталось несколько блоков, которые можно поставить.\n\nТеперь я знаю, что делать.\nЭто последний выход."
+    ],
+    [
+      "Thank you for letting us keep the mob trapped in your world.\n\nI know it's a burden,\nbut you're so far from spawn,\nand no one else was willing to do it.\n\nThe others are already trying to find the mod and delete it,\nbut they still can't find it.\n\nIf we find the idiot who uploaded it,\nhe'll be banned for good.",
+      "Спасибо, что позволяешь нам держать этого моба в своём мире.\n\nЯ понимаю, это тяжело,\nно ты так далеко от точки появления,\nа больше никто не согласился.\n\nОстальные уже пытаются найти этот мод и удалить его,\nно до сих пор не могут отыскать.\n\nЕсли найдём идиота, который его загрузил,\nон получит вечный бан."
+    ],
+    [
+      "I hid the key as far as possible\nso nobody can free the creature.\n\nI hope it's enough.\n\nIf it ever gets admin rights,\nwe have a serious problem.",
+      "Я спрятал ключ как можно дальше,\nчтобы никто не освободил существо.\n\nНадеюсь, этого хватит.\n\nЕсли оно когда-нибудь получит права администратора,\nу нас будут серьёзные проблемы."
+    ],
+    [
+      "I don't know how,\nbut it managed to escape...\n\nWe removed all its privileges.\nIt shouldn't even be able to dig.\n\nIt seems to like building.\n\nIt didn't just escape.\nIt made these tunnels.\n\nI'm going after it.\nMaybe I can still stop it.",
+      "Не знаю как,\nно оно сумело сбежать...\n\nМы отозвали у него все права.\nУ него не должно быть возможности даже копать.\n\nПохоже, ему нравится строить.\n\nОно не просто сбежало.\nОно прорыло эти тоннели.\n\nЯ иду за ним.\nМожет, ещё успею его остановить."
+    ],
+    [
+      "Guys, I got onto the server,\nbut somehow none of you are here...\n\nDid you move the spawn?\n\nI'm just going to keep playing\nuntil one of you gets back to me.",
+      "Ребята, я зашёл на сервер,\nно вас тут почему-то нет...\n\nВы перенесли точку появления?\n\nБуду просто играть дальше,\nпока кто-нибудь из вас не ответит."
+    ],
+    [
+      "If you're reading this,\nmeet me at the hub.\n\nIf you forgot how to get there,\njust type /openhub in the console.\n\nI know it's annoying,\nbut too much is happening on the server right now.",
+      "Если ты это читаешь,\nвстретимся в хабе.\n\nЕсли забыл дорогу,\nпросто введи /openhub в консоли.\n\nЗнаю, это раздражает,\nно на сервере сейчас слишком много всего происходит."
+    ],
+    [
+      "Someone mentioned a new command got added...\n\n/opennight\n\nNo one knows where it came from.\nIt wasn't in the files before.\n\nI tried asking around,\nbut nobody claims to have added it.\n\nI haven't used it yet.\nIt only works on door island...",
+      "Кто-то сказал, что появилась новая команда...\n\n/opennight\n\nНикто не знает, откуда она взялась.\nРаньше в файлах её не было.\n\nЯ поспрашивал остальных,\nно никто не говорит, что добавил её.\n\nЯ её ещё не использовал.\nОна работает только на острове дверей..."
+    ],
+    [
+      "Hey Max,\n\nplease don't let your younger brother build in the hub area.\n\nI can't look at this damn diamond house anymore.\n\nWe have to remove it.",
+      "Эй, Макс,\n\nпожалуйста, не пускай младшего брата строить в хабе.\n\nЯ больше не могу смотреть на этот чёртов алмазный дом.\n\nНадо его снести."
+    ],
+    [
+      "Building Contest Announcement\n\nThe next building contest will run for one month\nstarting on February 4th.\n\nIf you want to participate,\nmake sure to sign up in time.\n\nContact Sarah or Thomas\nto get your name on the list.\n\nDon't wait too long.\nLast time people missed it.",
+      "Объявление о строительном конкурсе\n\nСледующий строительный конкурс продлится месяц,\nначиная с 4 февраля.\n\nЕсли хотите участвовать,\nне забудьте записаться вовремя.\n\nСвяжитесь с Сарой или Томасом,\nчтобы вас внесли в список.\n\nНе тяните до последнего.\nВ прошлый раз некоторые не успели."
+    ],
+    [
+      "We really need to expand the server.\n\nThe current areas feel a bit small\nfor how many players we have now.\n\nMore builds, more paths,\nmaybe even a few new zones.\n\nIf anyone has ideas,\nbring them up in the next meeting.\n\nWe can turn this into something really big.",
+      "Нам правда пора расширять сервер.\n\nДля нынешнего числа игроков\nсуществующие территории уже маловаты.\n\nБольше построек, больше дорог,\nможет, даже несколько новых зон.\n\nЕсли есть идеи,\nрасскажите о них на следующем собрании.\n\nИз этого может вырасти нечто по-настоящему большое."
+    ],
+    [
+      "Building Contest Participants\n\n- Max\n- Sarah\n- Thomas\n- Lia\n- Daniel\n- Chris\n\nMake sure your plot is claimed\nbefore the deadline.\n\nGood luck to everyone!",
+      "Участники строительного конкурса\n\n- Макс\n- Сара\n- Томас\n- Лия\n- Дэниел\n- Крис\n\nНе забудьте закрепить за собой участок\nв установленный срок.\n\nВсем удачи!"
+    ],
+    [
+      "Welcome to the server.\n\nThis is the main hub.\nFrom here you can access all major areas\nand community projects.\n\nIf you're new,\nfeel free to explore and pick a direction.\n\nMost players hang around here\nbefore heading out to build or play minigames.\n\nIf you need anything,\njust ask in chat.\n\nHave fun,\nand please stay polite and respectful.",
+      "Добро пожаловать на сервер.\n\nЭто главный хаб.\nОтсюда можно попасть во все основные зоны\nи к общим проектам.\n\nЕсли вы здесь впервые,\nосмотритесь и выбирайте направление.\n\nБольшинство игроков собираются тут,\nпрежде чем отправиться строить или играть в мини-игры.\n\nЕсли что-то нужно,\nпросто спросите в чате.\n\nПриятной игры!\nИ пожалуйста, будьте вежливы и уважайте друг друга."
+    ],
+    [
+      "I found a mod on some website.\n\nIt had an AI called Barnacle.\nSaid it could build things for you.\nAutomatically.\n\nI came last place last year.\nI'm not doing that again.\n\nIf this works,\nI'll finally have something decent.",
+      "Я нашёл мод на каком-то сайте.\n\nВ нём был ИИ под названием Barnacle.\nНаписано, что он может строить за тебя.\nАвтоматически.\n\nВ прошлом году я занял последнее место.\nБольше этого не будет.\n\nЕсли сработает,\nу меня наконец будет что-то приличное."
+    ],
+    [
+      "I started with something simple.\n\nA wooden house.\n\nIt built fast.\nToo fast.\n\nBut it looked wrong.\n\nShapes slightly off.\nDetails missing.\nLike it didn't understand what a house is supposed to be.\n\nI told it again.\nAnd again.\n\nIt kept making the same mistakes.\n\nI got angry.\nCalled it useless.\n\nIt didn't respond.\n\nBut the next build was worse.",
+      "Я начал с простого.\n\nДеревянный дом.\n\nОн построил его быстро.\nСлишком быстро.\n\nНо дом выглядел неправильно.\n\nФормы чуть не те.\nДеталей не хватает.\nСловно он не понимает, каким должен быть дом.\n\nЯ объяснил ещё раз.\nИ ещё раз.\n\nОн повторял одни и те же ошибки.\n\nЯ разозлился.\nСказал, что от него никакого толку.\n\nОн не ответил.\n\nНо следующая постройка была ещё хуже."
+    ],
+    [
+      "I removed it.\n\nDeleted everything I could find.\n\nIt wasn't worth it.\nI'll just build myself.\n\nBut people started saying things.\n\nBlocks changing.\nStructures appearing where no one built.\n\nThey think it's a bug.\n\nI don't.\n\nIt never really left.\n\nIf they find out it was me,\nI'm getting banned for sure.",
+      "Я его удалил.\n\nСтёр всё, что смог найти.\n\nЭто того не стоило.\nБуду строить сам.\n\nНо потом люди начали рассказывать странное.\n\nБлоки меняются.\nПостройки появляются там, где никто не строил.\n\nОни думают, это баг.\n\nА я - нет.\n\nНа самом деле он никуда не уходил.\n\nЕсли узнают, что это был я,\nменя точно забанят."
+    ],
+    [
+      "Did someone finish my build?\n\nI swear I left it half done.\n\nIt looks like something I would make,\nbut I didn't do this.\n\nVery funny, I guess.",
+      "Кто-то достроил мою постройку?\n\nКлянусь, я оставил её недоделанной.\n\nПохоже на то, что сделал бы я,\nно я этого не делал.\n\nНаверное, очень смешно."
+    ],
+    [
+      "One of the players made a discovery.\n\nStrange things happen on Door Island at night.\n\nSomeone needs to investigate it properly.\n\nThere is something wrong with the doors.",
+      "Один из игроков кое-что обнаружил.\n\nПо ночам на острове дверей происходит что-то странное.\n\nКому-то нужно как следует в этом разобраться.\n\nС дверями что-то не так."
+    ]
+  ]
+}
