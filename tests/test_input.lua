@@ -3,7 +3,7 @@ assert(input.normalize("  ПРИВЕТ, ЛИЯ!  ") == "привет лия")
 assert(input.normalize("ТЫ ВСЁ ЕЩЁ ЗДЕСЬ?") == "ты все еще здесь")
 assert(input.normalize("Hello, THERE!") == "hello there")
 assert(input.normalize("What\226\128\153s your name?") == "what s your name")
-assert(input.normalize("...") == "..." and input.normalize("…") == "...")
+assert(input.normalize("...") == "" and input.normalize("…") == "")
 assert(input.contains_word("да конечно", "да"))
 assert(not input.contains_word("иногда", "да"))
 assert(not input.contains_word("нетерпение", "нет"))
@@ -29,6 +29,7 @@ local triggers = {
 	{key = "what_happened_to_you", patterns = {"what happened to you"}},
 	{key = "what_happened", patterns = {"what happened"}},
 	{key = "ellipsis", patterns = {"...", "…"}},
+	{key = "question_marks", patterns = {"??", "???"}},
 }
 input.extend_triggers(triggers)
 local function intent(message)
@@ -47,7 +48,9 @@ assert(intent("Нетерпение") ~= "no_alone")
 assert(intent("hello") == "hello")
 assert(intent("what's your name?") == "whats_your_name")
 assert(intent("what happened to you") == "what_happened_to_you")
-assert(intent("...") == "ellipsis")
+for _, message in ipairs({"...", "…", "??", "???"}) do
+	assert(intent(message) == nil, "Punctuation must preserve the original fallback behavior")
+end
 assert(input.followup_topic(input.normalize("Я заблудился")) == "lost")
 assert(input.followup_topic(input.normalize("Мне СТРАШНО")) == "scared")
 assert(input.followup_topic(input.normalize("Ничего, всё нормально")) == "quiet")

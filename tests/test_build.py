@@ -44,6 +44,13 @@ class ReleaseTests(unittest.TestCase):
         checksum, filename = (folder / "SHA256SUMS.txt").read_text().strip().split("  ")
         self.assertEqual(checksum, hashlib.sha256((folder / filename).read_bytes()).hexdigest())
 
+    def test_original_mods_do_not_depend_on_translation(self):
+        for path in (ROOT / "integration").rglob("mod.conf"):
+            for line in path.read_text(encoding="utf-8").splitlines():
+                key, separator, value = line.partition("=")
+                if separator and key.strip() in ("depends", "optional_depends"):
+                    self.assertNotIn("barnacle_ru", [name.strip() for name in value.split(",")], str(path))
+
     def test_no_development_modes(self):
         source = (ROOT / "src/barnacle_ru/init.lua").read_text(encoding="utf-8")
         for marker in ("barnacle_ru_qa", "engine.unlock_achievement =", "engine.after(3"):

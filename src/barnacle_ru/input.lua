@@ -33,9 +33,6 @@ function M.normalize(text)
 	local lowered = (text or ""):gsub("[A-Z]", string.lower):gsub("[\194-\244][\128-\191]*", function(char)
 		return lower_cyrillic[char] or char
 	end):gsub("ё", "е")
-	local stripped = lowered:gsub("^%s+", ""):gsub("%s+$", "")
-	if stripped == "..." or stripped == "…" then return "..." end
-	if stripped == "??" or stripped == "???" then return "??" end
 	-- ASCII character classes must not consume individual UTF-8 bytes.
 	lowered = lowered:gsub("[%z\1-\127]", function(char)
 		return char:match("[a-z0-9]") and char or " "

@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
       version:
-        description: 'Версия X.Y.Z (пусто - следующий patch)'
+        description: 'Version X.Y.Z (leave blank to increment patch)'
         required: false
         type: string
 
